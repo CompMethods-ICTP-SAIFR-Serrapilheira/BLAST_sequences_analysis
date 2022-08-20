@@ -75,10 +75,12 @@ The repository contains the following folders:
 The workflow consist of three main parts (**Figure 1**) each one
 associated with an script in R.
 
-![](./figs/framework.png) **Figure 1.** Workflow. First, we cleaned the
-data from different sources and merged them into one single table. Then,
-we extracted the sequences from both BBH output and motifs. Finally, we
-asked whether the DNA-binding motifs aligned with the BBH output
+![](./figs/framework.png)
+
+**Figure 1.** Workflow. First, we cleaned the data from different
+sources and merged them into one single table. Then, we extracted the
+sequences from both BBH output and motifs. Finally, we asked whether the
+DNA-binding motifs aligned with the BBH output
 
 </div>
 
