@@ -45,7 +45,7 @@ The repository contains the following folders:
 -   **figs**: Contains all the figures either generated for the scripts
     or necessary to compile the .Rmd file for the report.
     
--   **docs**: .Rmd and .html files from the **report project**.
+-   **docs**: .Rmd and .html files from the **project report**.
 
 <span style="color:#035eab;">
 
