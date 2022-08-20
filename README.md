@@ -1,4 +1,4 @@
-RADME
+README
 ================
 
 -   [Open Data Analysis - Bidirectional Best Hit (BBH)
