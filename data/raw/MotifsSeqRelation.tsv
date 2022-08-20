@@ -1,0 +1,2551 @@
+aaeR	b3243	DNA-Binding-Region	19	38
+		Conserved-Region	1	59
+aas	b2836	Transmembrane-Region	409	433
+		Transmembrane-Region	258	277
+accA	b0185	Conserved-Region	35	296
+accB	b3255	Conserved-Region	73	156
+accC	b3256	Conserved-Region	120	317
+		Conserved-Region	1	445
+accD	b2316	Conserved-Region	23	292
+		Zn-Finger-Region	27	49
+aceF	b0115	Conserved-Region	328	365
+		Conserved-Region	206	279
+		Conserved-Region	105	178
+		Conserved-Region	2	75
+acpP	b1094	Conserved-Region	2	77
+acrB	b0462	Transmembrane-Region	999	1018
+		Transmembrane-Region	973	992
+		Transmembrane-Region	925	943
+		Transmembrane-Region	899	918
+		Transmembrane-Region	872	888
+		Transmembrane-Region	539	555
+		Transmembrane-Region	466	490
+		Transmembrane-Region	439	457
+		Transmembrane-Region	392	413
+		Transmembrane-Region	366	385
+		Transmembrane-Region	337	356
+		Transmembrane-Region	10	28
+acrR	b0464	DNA-Binding-Region	33	52
+		Conserved-Region	10	70
+acs	b4069	Nucleotide-Phosphate-Binding-Region	411	416
+		Nucleotide-Phosphate-Binding-Region	387	389
+actS	b2865	Conserved-Region	40	84
+ada	b2213	DNA-Binding-Region	102	121
+		Conserved-Region	85	183
+adk	b0474	Nucleotide-Phosphate-Binding-Region	132	133
+		Nucleotide-Phosphate-Binding-Region	85	88
+		Nucleotide-Phosphate-Binding-Region	57	59
+		Nucleotide-Phosphate-Binding-Region	10	15
+		Nucleotide-Phosphate-Binding-Region	85	88
+		Nucleotide-Phosphate-Binding-Region	57	59
+afuC	b0262	Nucleotide-Phosphate-Binding-Region	39	46
+		Conserved-Region	7	237
+ahpC	b0605	Conserved-Region	2	157
+aidB	b4187	Nucleotide-Phosphate-Binding-Region	423	433
+		Nucleotide-Phosphate-Binding-Region	216	218
+		Nucleotide-Phosphate-Binding-Region	182	191
+		Catalytic-Domain	2	439
+		DNA-Binding-Region	440	541
+alkB	b2212	Conserved-Region	113	213
+alsA	b4087	Nucleotide-Phosphate-Binding-Region	38	45
+		Conserved-Region	260	509
+		Conserved-Region	6	245
+amiC	b2817	Conserved-Region	190	404
+		Catalytic-Domain	175	408
+amiD	b0867	Conserved-Region	42	179
+amtB	b0451	Transmembrane-Region	147	170
+		Transmembrane-Region	119	141
+		Transmembrane-Region	370	402
+		Transmembrane-Region	333	354
+		Transmembrane-Region	303	328
+		Transmembrane-Region	280	294
+		Transmembrane-Region	246	275
+		Transmembrane-Region	216	242
+		Transmembrane-Region	185	203
+		Transmembrane-Region	60	90
+		Transmembrane-Region	29	55
+anmK	b1640	Nucleotide-Phosphate-Binding-Region	12	19
+ansP	b1453	Transmembrane-Region	448	468
+		Transmembrane-Region	422	442
+		Transmembrane-Region	378	398
+		Transmembrane-Region	353	373
+		Transmembrane-Region	298	318
+		Transmembrane-Region	264	284
+		Transmembrane-Region	219	239
+		Transmembrane-Region	171	191
+		Transmembrane-Region	146	166
+		Transmembrane-Region	109	129
+		Transmembrane-Region	58	78
+		Transmembrane-Region	34	54
+apaG	b0050	Conserved-Region	1	125
+aqpZ	b0875	Transmembrane-Region	202	222
+		Transmembrane-Region	156	176
+		Transmembrane-Region	131	151
+		Transmembrane-Region	82	102
+		Transmembrane-Region	34	54
+		Transmembrane-Region	9	29
+araG	b1900	Nucleotide-Phosphate-Binding-Region	40	47
+		Conserved-Region	256	499
+		Conserved-Region	8	243
+		Nucleotide-Phosphate-Binding-Region	40	47
+araH	b4460	Transmembrane-Region	297	317
+		Transmembrane-Region	276	296
+		Transmembrane-Region	249	269
+		Transmembrane-Region	220	240
+		Transmembrane-Region	171	191
+		Transmembrane-Region	129	149
+		Transmembrane-Region	104	124
+		Transmembrane-Region	79	99
+		Transmembrane-Region	53	73
+		Transmembrane-Region	29	49
+argO	b2923	Transmembrane-Region	179	199
+		Transmembrane-Region	147	167
+		Transmembrane-Region	111	131
+		Transmembrane-Region	68	88
+		Transmembrane-Region	37	57
+		Transmembrane-Region	1	21
+argP	b2916	DNA-Binding-Region	21	40
+		Conserved-Region	4	60
+aroB	b3389	Nucleotide-Phosphate-Binding-Region	169	172
+		Nucleotide-Phosphate-Binding-Region	129	130
+		Nucleotide-Phosphate-Binding-Region	105	109
+		Nucleotide-Phosphate-Binding-Region	71	76
+aroC	b2329	Nucleotide-Phosphate-Binding-Region	293	297
+		Nucleotide-Phosphate-Binding-Region	238	239
+		Nucleotide-Phosphate-Binding-Region	125	127
+aroK	b3390	Nucleotide-Phosphate-Binding-Region	14	19
+arsR	b3501	DNA-Binding-Region	33	52
+		Conserved-Region	1	92
+artM	b0861	Conserved-Region	12	208
+		Transmembrane-Region	187	207
+		Transmembrane-Region	155	175
+		Transmembrane-Region	80	100
+		Transmembrane-Region	50	70
+		Transmembrane-Region	16	36
+artQ	b0862	Conserved-Region	11	223
+		Transmembrane-Region	202	222
+		Transmembrane-Region	169	189
+		Transmembrane-Region	99	119
+		Transmembrane-Region	49	69
+		Transmembrane-Region	15	35
+aspS	b1866	Nucleotide-Phosphate-Binding-Region	534	537
+		Nucleotide-Phosphate-Binding-Region	217	219
+atoC	b2220	Nucleotide-Phosphate-Binding-Region	173	180
+		DNA-Binding-Region	433	452
+		Nucleotide-Phosphate-Binding-Region	236	245
+		Conserved-Region	145	374
+		Conserved-Region	6	120
+atpA	b3734	Nucleotide-Phosphate-Binding-Region	169	176
+atpD	b3732	Nucleotide-Phosphate-Binding-Region	150	157
+azoR	b1412	Nucleotide-Phosphate-Binding-Region	140	145
+		Nucleotide-Phosphate-Binding-Region	96	99
+		Nucleotide-Phosphate-Binding-Region	16	18
+bacA	b3057	Transmembrane-Region	252	272
+		Transmembrane-Region	222	242
+		Transmembrane-Region	190	210
+		Transmembrane-Region	116	136
+		Transmembrane-Region	90	110
+		Transmembrane-Region	45	65
+		Transmembrane-Region	6	26
+baeR	b2079	Conserved-Region	12	125
+		DNA-Binding-Region	131	234
+		Conserved-Region	12	125
+baeR	b2079	Conserved-Region	12	125
+		DNA-Binding-Region	131	234
+		Conserved-Region	12	125
+barA	b2786	Conserved-Region	822	918
+		Conserved-Region	669	785
+		Conserved-Region	299	520
+		Conserved-Region	200	252
+		Transmembrane-Region	177	196
+		Transmembrane-Region	10	31
+basR	b4113	DNA-Binding-Region	124	218
+		Conserved-Region	2	116
+bcp	b2480	Conserved-Region	4	156
+bcr	b2182	Transmembrane-Region	373	390
+		Transmembrane-Region	345	366
+		Transmembrane-Region	309	332
+		Transmembrane-Region	286	302
+		Transmembrane-Region	251	268
+		Transmembrane-Region	215	239
+		Transmembrane-Region	166	185
+		Transmembrane-Region	138	159
+		Transmembrane-Region	106	122
+		Transmembrane-Region	77	98
+		Transmembrane-Region	49	65
+		Transmembrane-Region	9	26
+bcsA	b3533	Conserved-Region	694	790
+		Transmembrane-Region	833	853
+		Transmembrane-Region	668	688
+		Transmembrane-Region	640	660
+		Transmembrane-Region	592	612
+		Transmembrane-Region	547	567
+		Transmembrane-Region	525	545
+		Transmembrane-Region	230	250
+		Transmembrane-Region	173	193
+		Transmembrane-Region	151	171
+		Transmembrane-Region	30	50
+bdcA	b4249	Nucleotide-Phosphate-Binding-Region	10	34
+betA	b0311	Nucleotide-Phosphate-Binding-Region	4	33
+betB	b0312	Nucleotide-Phosphate-Binding-Region	229	234
+		Nucleotide-Phosphate-Binding-Region	176	179
+		Nucleotide-Phosphate-Binding-Region	150	153
+betI	b0313	DNA-Binding-Region	31	50
+		Conserved-Region	8	68
+bfr	b3336	Conserved-Region	1	145
+bipA	b3871	Nucleotide-Phosphate-Binding-Region	128	131
+		Nucleotide-Phosphate-Binding-Region	15	20
+		Conserved-Region	3	198
+birA	b3973	DNA-Binding-Region	22	41
+		Conserved-Region	67	254
+btuR	b1270	Nucleotide-Phosphate-Binding-Region	36	42
+cadC	b4133	DNA-Binding-Region	3	102
+		Transmembrane-Region	155	180
+carA	b0032	Conserved-Region	193	380
+carB	b0033	Conserved-Region	937	1073
+		Nucleotide-Phosphate-Binding-Region	705	762
+		Nucleotide-Phosphate-Binding-Region	159	216
+		Conserved-Region	679	870
+		Conserved-Region	133	328
+cbpA	b1000	Conserved-Region	5	69
+ccmA	b2201	Nucleotide-Phosphate-Binding-Region	36	43
+		Conserved-Region	4	207
+ccmB	b2200	Transmembrane-Region	193	213
+		Transmembrane-Region	159	179
+		Transmembrane-Region	128	148
+		Transmembrane-Region	101	121
+		Transmembrane-Region	45	65
+		Transmembrane-Region	21	41
+ccmC	b2199	Transmembrane-Region	206	226
+		Transmembrane-Region	160	180
+		Transmembrane-Region	129	149
+		Transmembrane-Region	91	111
+		Transmembrane-Region	64	84
+		Transmembrane-Region	21	41
+ccmE	b2197	Transmembrane-Region	9	29
+ccmF	b2196	Transmembrane-Region	312	332
+		Transmembrane-Region	609	629
+		Transmembrane-Region	482	502
+		Transmembrane-Region	448	468
+		Transmembrane-Region	425	445
+		Transmembrane-Region	390	410
+		Transmembrane-Region	351	371
+		Transmembrane-Region	274	294
+		Transmembrane-Region	236	256
+		Transmembrane-Region	211	231
+		Transmembrane-Region	176	196
+		Transmembrane-Region	121	141
+		Transmembrane-Region	94	114
+		Transmembrane-Region	42	62
+		Transmembrane-Region	9	29
+ccmG	b2195	Conserved-Region	39	177
+		Transmembrane-Region	5	25
+ccmH	b2194	Transmembrane-Region	147	169
+		Transmembrane-Region	97	119
+ccp	b3518	Transmembrane-Region	4	27
+cdsA	b0175	Transmembrane-Region	264	284
+		Transmembrane-Region	213	233
+		Transmembrane-Region	190	210
+		Transmembrane-Region	151	171
+		Transmembrane-Region	121	141
+		Transmembrane-Region	93	113
+		Transmembrane-Region	56	76
+		Transmembrane-Region	31	51
+cecR	b0796	DNA-Binding-Region	33	52
+		Conserved-Region	11	70
+chaA	b1216	Transmembrane-Region	346	366
+		Transmembrane-Region	319	339
+		Transmembrane-Region	291	311
+		Transmembrane-Region	256	276
+		Transmembrane-Region	217	237
+		Transmembrane-Region	168	188
+		Transmembrane-Region	144	164
+		Transmembrane-Region	107	127
+		Transmembrane-Region	75	95
+		Transmembrane-Region	38	58
+		Transmembrane-Region	17	37
+cheB	b1883	Conserved-Region	152	344
+		Conserved-Region	5	122
+cheR	b1884	Conserved-Region	15	286
+cheW	b1887	Conserved-Region	16	156
+clpA	b0882	Conserved-Region	1	145
+		Nucleotide-Phosphate-Binding-Region	495	502
+		Nucleotide-Phosphate-Binding-Region	214	221
+clpB	b2592	Conserved-Region	3	146
+		Nucleotide-Phosphate-Binding-Region	605	612
+		Nucleotide-Phosphate-Binding-Region	206	213
+clpX	b0438	Conserved-Region	2	56
+		Nucleotide-Phosphate-Binding-Region	120	127
+cmk	b0910	Nucleotide-Phosphate-Binding-Region	12	20
+coaA	b3974	Nucleotide-Phosphate-Binding-Region	95	102
+coaD	b3634	Nucleotide-Phosphate-Binding-Region	89	91
+		Nucleotide-Phosphate-Binding-Region	124	130
+		Nucleotide-Phosphate-Binding-Region	88	91
+		Nucleotide-Phosphate-Binding-Region	7	11
+coaE	b0103	Nucleotide-Phosphate-Binding-Region	175	177
+		Nucleotide-Phosphate-Binding-Region	12	17
+		Conserved-Region	4	200
+cobU	b1993	Nucleotide-Phosphate-Binding-Region	48	51
+		Nucleotide-Phosphate-Binding-Region	31	33
+		Nucleotide-Phosphate-Binding-Region	7	14
+comR	b1111	DNA-Binding-Region	41	60
+		Conserved-Region	18	78
+corA	b3816	Transmembrane-Region	288	310
+		Transmembrane-Region	255	273
+cpoB	b0742	Coiled-Coil-Region	27	142
+cpxA	b3911	Nucleotide-Phosphate-Binding-Region	416	421
+		Nucleotide-Phosphate-Binding-Region	405	406
+		Nucleotide-Phosphate-Binding-Region	359	364
+		Nucleotide-Phosphate-Binding-Region	248	251
+		Conserved-Region	245	455
+		Conserved-Region	185	237
+		Transmembrane-Region	164	184
+		Transmembrane-Region	8	29
+cpxR	b3912	DNA-Binding-Region	131	230
+		Conserved-Region	3	115
+cspC	b1823	Conserved-Region	6	66
+csqR	b3884	DNA-Binding-Region	25	44
+		Conserved-Region	8	63
+cueR	b0487	DNA-Binding-Region	4	23
+		Conserved-Region	1	69
+cusR	b0571	DNA-Binding-Region	125	223
+		Conserved-Region	2	116
+cvrA	b1191	Conserved-Region	403	485
+		Transmembrane-Region	363	383
+		Transmembrane-Region	334	354
+		Transmembrane-Region	293	313
+		Transmembrane-Region	270	290
+		Transmembrane-Region	237	257
+		Transmembrane-Region	216	236
+		Transmembrane-Region	183	203
+		Transmembrane-Region	156	176
+		Transmembrane-Region	119	141
+		Transmembrane-Region	87	107
+		Transmembrane-Region	58	78
+		Transmembrane-Region	30	50
+		Transmembrane-Region	6	26
+cydA	b0733	Transmembrane-Region	473	487
+		Transmembrane-Region	424	441
+		Transmembrane-Region	391	407
+		Transmembrane-Region	220	235
+		Transmembrane-Region	187	203
+		Transmembrane-Region	129	146
+		Transmembrane-Region	97	114
+		Transmembrane-Region	55	69
+		Transmembrane-Region	16	35
+		Conserved-Region	447	451
+cydB	b0734	Transmembrane-Region	9	28
+		Transmembrane-Region	337	356
+		Transmembrane-Region	293	312
+		Transmembrane-Region	263	282
+		Transmembrane-Region	206	225
+		Transmembrane-Region	165	184
+		Transmembrane-Region	123	142
+		Transmembrane-Region	80	99
+		Transmembrane-Region	9	28
+cydD	b0887	Nucleotide-Phosphate-Binding-Region	383	390
+		Transmembrane-Region	250	270
+		Transmembrane-Region	163	183
+		Transmembrane-Region	140	160
+		Conserved-Region	350	583
+		Conserved-Region	24	316
+		Transmembrane-Region	284	304
+		Transmembrane-Region	62	82
+		Transmembrane-Region	29	49
+		Conserved-Region	486	493
+		Nucleotide-Phosphate-Binding-Region	506	510
+		Nucleotide-Phosphate-Binding-Region	383	390
+cyoA	b0432	Transmembrane-Region	93	111
+		Transmembrane-Region	51	68
+cyoB	b0431	Transmembrane-Region	614	632
+		Transmembrane-Region	588	606
+		Transmembrane-Region	490	521
+		Transmembrane-Region	449	477
+		Transmembrane-Region	413	445
+		Transmembrane-Region	378	409
+		Transmembrane-Region	341	369
+		Transmembrane-Region	312	326
+		Transmembrane-Region	271	307
+		Transmembrane-Region	225	260
+		Transmembrane-Region	185	215
+		Transmembrane-Region	138	161
+		Transmembrane-Region	96	132
+		Transmembrane-Region	53	80
+		Transmembrane-Region	17	35
+cyoC	b0430	Transmembrane-Region	185	203
+		Transmembrane-Region	143	161
+		Transmembrane-Region	102	120
+		Transmembrane-Region	67	85
+		Transmembrane-Region	32	50
+cyoD	b0429	Transmembrane-Region	81	99
+		Transmembrane-Region	46	64
+		Transmembrane-Region	18	36
+cysA	b2422	Nucleotide-Phosphate-Binding-Region	35	42
+		Conserved-Region	3	237
+cysG	b3368	Nucleotide-Phosphate-Binding-Region	43	44
+		Nucleotide-Phosphate-Binding-Region	22	23
+cysN	b2751	Nucleotide-Phosphate-Binding-Region	168	171
+		Nucleotide-Phosphate-Binding-Region	113	117
+		Nucleotide-Phosphate-Binding-Region	34	41
+		Conserved-Region	25	239
+cysU	b2424	Conserved-Region	60	263
+		Transmembrane-Region	243	263
+		Transmembrane-Region	215	235
+		Transmembrane-Region	185	205
+		Transmembrane-Region	136	156
+		Transmembrane-Region	99	119
+		Transmembrane-Region	64	84
+		Transmembrane-Region	17	37
+cysW	b2423	Conserved-Region	66	270
+		Transmembrane-Region	248	268
+		Transmembrane-Region	201	221
+		Transmembrane-Region	142	162
+		Transmembrane-Region	105	125
+		Transmembrane-Region	70	90
+		Transmembrane-Region	23	43
+cytR	b3934	DNA-Binding-Region	12	31
+		Conserved-Region	10	64
+dacD	b2010	Protein-Structure-Region	375	388
+		Conserved-Region	232	234
+		Conserved-Region	129	131
+		Conserved-Region	63	67
+dadA	b1189	Nucleotide-Phosphate-Binding-Region	3	17
+dapB	b0031	Nucleotide-Phosphate-Binding-Region	126	129
+		Nucleotide-Phosphate-Binding-Region	102	104
+		Nucleotide-Phosphate-Binding-Region	12	17
+dcd	b2065	Nucleotide-Phosphate-Binding-Region	171	174
+		Nucleotide-Phosphate-Binding-Region	136	138
+		Nucleotide-Phosphate-Binding-Region	124	128
+		Nucleotide-Phosphate-Binding-Region	110	115
+dctA	b3528	Transmembrane-Region	352	374
+		Transmembrane-Region	326	348
+		Transmembrane-Region	219	241
+		Transmembrane-Region	184	206
+		Transmembrane-Region	141	163
+		Transmembrane-Region	77	99
+		Transmembrane-Region	47	64
+		Transmembrane-Region	5	27
+ddlB	b0092	Nucleotide-Phosphate-Binding-Region	134	189
+		Conserved-Region	101	303
+ddpC	b1485	Conserved-Region	97	282
+		Transmembrane-Region	261	281
+		Transmembrane-Region	218	238
+		Transmembrane-Region	146	166
+		Transmembrane-Region	125	145
+		Transmembrane-Region	97	117
+		Transmembrane-Region	34	54
+decR	b0447	DNA-Binding-Region	21	40
+		Conserved-Region	2	63
+degP	b0161	Conserved-Region	377	466
+		Conserved-Region	280	371
+der	b2511	Nucleotide-Phosphate-Binding-Region	321	324
+		Nucleotide-Phosphate-Binding-Region	256	260
+		Nucleotide-Phosphate-Binding-Region	209	216
+		Nucleotide-Phosphate-Binding-Region	118	121
+		Nucleotide-Phosphate-Binding-Region	56	60
+		Nucleotide-Phosphate-Binding-Region	9	16
+		Conserved-Region	377	461
+		Conserved-Region	203	376
+		Conserved-Region	3	166
+dfp	b3639	Nucleotide-Phosphate-Binding-Region	308	311
+		Nucleotide-Phosphate-Binding-Region	273	275
+		Catalytic-Domain	191	406
+		Catalytic-Domain	2	190
+dgcM	b1341	Conserved-Region	129	198
+		Conserved-Region	3	70
+		Conserved-Region	283	410
+		Conserved-Region	199	251
+dgcQ	b1956	Conserved-Region	428	563
+		Transmembrane-Region	360	380
+		Transmembrane-Region	20	40
+dgcT	b1025	Conserved-Region	310	445
+		Transmembrane-Region	255	275
+		Transmembrane-Region	220	240
+		Transmembrane-Region	196	216
+		Transmembrane-Region	149	169
+		Transmembrane-Region	112	132
+		Transmembrane-Region	75	95
+		Transmembrane-Region	46	66
+		Transmembrane-Region	8	28
+dgkA	b4042	Transmembrane-Region	96	119
+		Transmembrane-Region	53	69
+		Transmembrane-Region	34	49
+dhaK	b1200	Conserved-Region	7	352
+dhaL	b1199	Nucleotide-Phosphate-Binding-Region	191	193
+		Nucleotide-Phosphate-Binding-Region	79	80
+		Nucleotide-Phosphate-Binding-Region	38	41
+		Nucleotide-Phosphate-Binding-Region	191	193
+		Nucleotide-Phosphate-Binding-Region	79	80
+		Nucleotide-Phosphate-Binding-Region	35	41
+		Conserved-Region	6	206
+dinB	b0231	Conserved-Region	4	185
+dinF	b4044	Transmembrane-Region	416	436
+		Transmembrane-Region	373	393
+		Transmembrane-Region	338	358
+		Transmembrane-Region	289	309
+		Transmembrane-Region	265	285
+		Transmembrane-Region	207	227
+		Transmembrane-Region	180	200
+		Transmembrane-Region	154	174
+		Transmembrane-Region	111	131
+		Transmembrane-Region	63	83
+		Transmembrane-Region	29	49
+		Transmembrane-Region	2	22
+dkgA	b3012	Nucleotide-Phosphate-Binding-Region	187	241
+dksA	b0145	Zn-Finger-Region	114	138
+dmlA	b1800	Conserved-Region	88	98
+dnaA	b3702	Nucleotide-Phosphate-Binding-Region	172	179
+dnaB	b4052	Nucleotide-Phosphate-Binding-Region	231	238
+		Conserved-Region	200	467
+		DNA-Binding-Region	324	329
+dnaG	b3066	Zn-Finger-Region	40	64
+		Conserved-Region	259	341
+dnaJ	b0015	Conserved-Region	3	72
+		Zn-Finger-Region	131	209
+dnaK	b0014	Alpha-Helix-Region	560	638
+dnaN	b3701	Nucleotide-Phosphate-Binding-Region	153	154
+dppB	b3543	Conserved-Region	96	328
+		Transmembrane-Region	310	330
+		Transmembrane-Region	260	280
+		Transmembrane-Region	201	221
+		Transmembrane-Region	172	192
+		Transmembrane-Region	136	156
+		Transmembrane-Region	103	123
+		Transmembrane-Region	10	30
+dppC	b3542	Conserved-Region	98	287
+		Transmembrane-Region	266	286
+		Transmembrane-Region	231	251
+		Transmembrane-Region	207	227
+		Transmembrane-Region	137	157
+		Transmembrane-Region	102	122
+		Transmembrane-Region	32	52
+dppD	b3541	Nucleotide-Phosphate-Binding-Region	40	47
+		Conserved-Region	4	254
+dppF	b3540	Nucleotide-Phosphate-Binding-Region	55	62
+		Conserved-Region	13	262
+dusA	b4049	Nucleotide-Phosphate-Binding-Region	248	249
+		Nucleotide-Phosphate-Binding-Region	226	228
+		Nucleotide-Phosphate-Binding-Region	32	34
+dusB	b3260	Nucleotide-Phosphate-Binding-Region	224	225
+		Nucleotide-Phosphate-Binding-Region	200	202
+		Nucleotide-Phosphate-Binding-Region	16	18
+dxr	b0173	Nucleotide-Phosphate-Binding-Region	7	36
+eamB	b2578	Transmembrane-Region	177	194
+		Transmembrane-Region	142	162
+		Transmembrane-Region	105	125
+		Transmembrane-Region	70	90
+		Transmembrane-Region	47	67
+		Transmembrane-Region	8	28
+elaA	b2267	Conserved-Region	7	151
+emrB	b2686	Transmembrane-Region	482	504
+		Transmembrane-Region	408	428
+		Transmembrane-Region	364	387
+		Transmembrane-Region	336	355
+		Transmembrane-Region	306	329
+		Transmembrane-Region	272	295
+		Transmembrane-Region	234	249
+		Transmembrane-Region	203	223
+		Transmembrane-Region	165	189
+		Transmembrane-Region	137	159
+		Transmembrane-Region	110	128
+		Transmembrane-Region	82	100
+		Transmembrane-Region	52	72
+		Transmembrane-Region	13	38
+emrE	b0543	Transmembrane-Region	87	104
+		Transmembrane-Region	58	80
+		Transmembrane-Region	34	52
+		Transmembrane-Region	4	21
+emrK	b2368	Transmembrane-Region	17	37
+envR	b3264	DNA-Binding-Region	33	52
+		Conserved-Region	10	70
+envZ	b3404	Nucleotide-Phosphate-Binding-Region	402	406
+		Nucleotide-Phosphate-Binding-Region	392	393
+		Nucleotide-Phosphate-Binding-Region	347	351
+		Transmembrane-Region	159	179
+		Transmembrane-Region	16	35
+		Conserved-Region	240	440
+		Conserved-Region	180	232
+epd	b2927	Nucleotide-Phosphate-Binding-Region	12	13
+epmA	b4155	Nucleotide-Phosphate-Binding-Region	244	245
+		Nucleotide-Phosphate-Binding-Region	100	102
+epmB	b4146	Conserved-Region	106	329
+era	b2566	Conserved-Region	7	175
+		Nucleotide-Phosphate-Binding-Region	124	127
+		Nucleotide-Phosphate-Binding-Region	62	66
+		Nucleotide-Phosphate-Binding-Region	15	22
+		Conserved-Region	206	283
+ettA	b4391	Nucleotide-Phosphate-Binding-Region	356	363
+		Nucleotide-Phosphate-Binding-Region	39	46
+		Conserved-Region	324	550
+		Conserved-Region	6	259
+eutR	b2437	DNA-Binding-Region	311	334
+		DNA-Binding-Region	260	281
+		Conserved-Region	243	344
+exbD	b3005	Transmembrane-Region	23	43
+exuR	b3094	DNA-Binding-Region	35	54
+		Conserved-Region	7	75
+fabG	b1093	Nucleotide-Phosphate-Binding-Region	151	155
+		Nucleotide-Phosphate-Binding-Region	59	60
+		Nucleotide-Phosphate-Binding-Region	12	15
+fabI	b1288	Nucleotide-Phosphate-Binding-Region	192	196
+		Nucleotide-Phosphate-Binding-Region	64	65
+		Nucleotide-Phosphate-Binding-Region	19	20
+fadD	b1805	Nucleotide-Phosphate-Binding-Region	213	224
+fadH	b3081	Nucleotide-Phosphate-Binding-Region	656	658
+		Nucleotide-Phosphate-Binding-Region	654	656
+		Nucleotide-Phosphate-Binding-Region	563	564
+		Nucleotide-Phosphate-Binding-Region	311	312
+		Nucleotide-Phosphate-Binding-Region	25	27
+fadK	b1701	Nucleotide-Phosphate-Binding-Region	231	242
+fcl	b2052	Nucleotide-Phosphate-Binding-Region	163	166
+		Nucleotide-Phosphate-Binding-Region	105	108
+		Nucleotide-Phosphate-Binding-Region	36	41
+		Nucleotide-Phosphate-Binding-Region	10	16
+fdhF	b4079	Conserved-Region	1	56
+fecD	b4288	Transmembrane-Region	295	315
+		Transmembrane-Region	270	290
+		Transmembrane-Region	226	246
+		Transmembrane-Region	180	200
+		Transmembrane-Region	138	158
+		Transmembrane-Region	106	126
+		Transmembrane-Region	85	105
+		Transmembrane-Region	56	76
+		Transmembrane-Region	3	23
+ffh	b2610	Nucleotide-Phosphate-Binding-Region	248	251
+		Nucleotide-Phosphate-Binding-Region	190	194
+		Nucleotide-Phosphate-Binding-Region	107	114
+fhuA	b0150	Transmembrane-Region	738	746
+		Transmembrane-Region	706	714
+		Transmembrane-Region	690	698
+		Transmembrane-Region	662	670
+		Transmembrane-Region	646	654
+		Transmembrane-Region	614	622
+		Transmembrane-Region	602	610
+		Transmembrane-Region	566	574
+		Transmembrane-Region	552	560
+		Transmembrane-Region	523	531
+		Transmembrane-Region	509	517
+		Transmembrane-Region	478	486
+		Transmembrane-Region	465	473
+		Transmembrane-Region	405	413
+		Transmembrane-Region	388	396
+		Transmembrane-Region	327	335
+		Transmembrane-Region	313	321
+		Transmembrane-Region	260	268
+		Transmembrane-Region	246	255
+		Transmembrane-Region	223	231
+		Transmembrane-Region	207	215
+		Transmembrane-Region	193	201
+fhuB	b0153	Transmembrane-Region	197	217
+		Transmembrane-Region	62	82
+		Transmembrane-Region	635	655
+		Transmembrane-Region	607	627
+		Transmembrane-Region	567	587
+		Transmembrane-Region	528	548
+		Transmembrane-Region	479	499
+		Transmembrane-Region	447	467
+		Transmembrane-Region	424	444
+		Transmembrane-Region	391	411
+		Transmembrane-Region	348	368
+		Transmembrane-Region	303	323
+		Transmembrane-Region	277	297
+		Transmembrane-Region	240	260
+		Transmembrane-Region	147	167
+		Transmembrane-Region	118	138
+		Transmembrane-Region	93	113
+		Transmembrane-Region	5	25
+fhuC	b0151	Nucleotide-Phosphate-Binding-Region	168	179
+		Nucleotide-Phosphate-Binding-Region	44	51
+		Conserved-Region	12	248
+fieF	b3915	Transmembrane-Region	180	199
+		Transmembrane-Region	158	175
+		Transmembrane-Region	117	139
+		Transmembrane-Region	80	102
+		Transmembrane-Region	38	60
+		Transmembrane-Region	12	34
+fixC	b0043	Nucleotide-Phosphate-Binding-Region	12	28
+flhA	b1879	Transmembrane-Region	296	316
+		Transmembrane-Region	247	267
+		Transmembrane-Region	209	229
+		Transmembrane-Region	121	141
+		Transmembrane-Region	95	115
+		Transmembrane-Region	71	91
+		Transmembrane-Region	46	66
+		Transmembrane-Region	24	44
+flhB	b1880	Transmembrane-Region	190	210
+		Transmembrane-Region	145	165
+		Transmembrane-Region	95	115
+		Transmembrane-Region	74	94
+		Transmembrane-Region	32	52
+fliI	b1941	Nucleotide-Phosphate-Binding-Region	182	189
+fliP	b1948	Transmembrane-Region	209	229
+		Transmembrane-Region	185	205
+		Transmembrane-Region	88	108
+		Transmembrane-Region	45	65
+fnr	b1334	DNA-Binding-Region	197	216
+		Conserved-Region	164	237
+folA	b0048	Nucleotide-Phosphate-Binding-Region	95	102
+		Nucleotide-Phosphate-Binding-Region	63	64
+		Nucleotide-Phosphate-Binding-Region	45	46
+		Nucleotide-Phosphate-Binding-Region	13	19
+		Conserved-Region	1	158
+folC	b2315	Nucleotide-Phosphate-Binding-Region	59	62
+folD	b0529	Nucleotide-Phosphate-Binding-Region	166	168
+folP	b3177	Conserved-Region	15	267
+fpr	b3924	Nucleotide-Phosphate-Binding-Region	214	216
+		Nucleotide-Phosphate-Binding-Region	173	174
+		Nucleotide-Phosphate-Binding-Region	143	144
+		Nucleotide-Phosphate-Binding-Region	247	248
+		Nucleotide-Phosphate-Binding-Region	74	76
+		Nucleotide-Phosphate-Binding-Region	50	53
+		Conserved-Region	2	101
+fsr	b0479	Transmembrane-Region	379	399
+		Transmembrane-Region	354	374
+		Transmembrane-Region	320	340
+		Transmembrane-Region	295	315
+		Transmembrane-Region	267	287
+		Transmembrane-Region	226	246
+		Transmembrane-Region	178	198
+		Transmembrane-Region	152	172
+		Transmembrane-Region	103	123
+		Transmembrane-Region	64	84
+		Transmembrane-Region	43	63
+ftsE	b3463	Nucleotide-Phosphate-Binding-Region	35	42
+		Conserved-Region	2	222
+ftsH	b3178	Nucleotide-Phosphate-Binding-Region	192	199
+		Transmembrane-Region	99	119
+		Transmembrane-Region	5	25
+ftsK	b0890	Nucleotide-Phosphate-Binding-Region	994	999
+		Conserved-Region	974	1187
+		Transmembrane-Region	163	179
+		Transmembrane-Region	116	132
+		Transmembrane-Region	75	98
+		Transmembrane-Region	25	44
+ftsY	b3464	Nucleotide-Phosphate-Binding-Region	446	449
+		Nucleotide-Phosphate-Binding-Region	382	386
+		Nucleotide-Phosphate-Binding-Region	300	307
+		Nucleotide-Phosphate-Binding-Region	446	449
+		Nucleotide-Phosphate-Binding-Region	382	386
+		Nucleotide-Phosphate-Binding-Region	300	307
+ftsZ	b0095	Nucleotide-Phosphate-Binding-Region	107	109
+		Nucleotide-Phosphate-Binding-Region	20	24
+fusA	b3340	Nucleotide-Phosphate-Binding-Region	142	145
+		Nucleotide-Phosphate-Binding-Region	88	92
+		Nucleotide-Phosphate-Binding-Region	17	24
+		Conserved-Region	8	290
+gabD	b2661	Nucleotide-Phosphate-Binding-Region	233	234
+		Nucleotide-Phosphate-Binding-Region	180	183
+		Nucleotide-Phosphate-Binding-Region	156	157
+galE	b0759	Nucleotide-Phosphate-Binding-Region	80	84
+		Nucleotide-Phosphate-Binding-Region	58	59
+		Nucleotide-Phosphate-Binding-Region	31	36
+		Nucleotide-Phosphate-Binding-Region	11	12
+galR	b2837	DNA-Binding-Region	4	23
+		Conserved-Region	1	56
+garR	b3125	Nucleotide-Phosphate-Binding-Region	4	18
+gcd	b0124	Transmembrane-Region	119	141
+		Transmembrane-Region	96	110
+		Transmembrane-Region	63	81
+		Transmembrane-Region	41	58
+		Transmembrane-Region	11	37
+gcvA	b2808	DNA-Binding-Region	23	42
+		Conserved-Region	6	63
+gcvH	b2904	Conserved-Region	24	106
+gdx	b4148	Transmembrane-Region	82	102
+		Transmembrane-Region	58	78
+		Transmembrane-Region	29	49
+		Transmembrane-Region	1	21
+glcD	b2979	Conserved-Region	52	230
+glcE	b4468	Conserved-Region	1	173
+glcF	b4467	Conserved-Region	66	95
+		Conserved-Region	14	47
+glk	b2388	Nucleotide-Phosphate-Binding-Region	8	13
+glmS	b3729	Conserved-Region	458	599
+		Conserved-Region	286	426
+		Conserved-Region	2	218
+glnA	b3870	Nucleotide-Phosphate-Binding-Region	272	274
+glnD	b0167	Conserved-Region	468	590
+		Conserved-Region	816	890
+		Conserved-Region	709	789
+glnG	b3868	DNA-Binding-Region	445	464
+		Nucleotide-Phosphate-Binding-Region	231	240
+		Nucleotide-Phosphate-Binding-Region	168	175
+		Conserved-Region	140	369
+		Conserved-Region	5	119
+glnL	b3869	Conserved-Region	136	349
+		Conserved-Region	5	78
+gloA	b1651	Conserved-Region	2	126
+glpD	b3426	Nucleotide-Phosphate-Binding-Region	5	33
+glpK	b3926	Nucleotide-Phosphate-Binding-Region	412	416
+		Nucleotide-Phosphate-Binding-Region	14	16
+gltB	b3212	Nucleotide-Phosphate-Binding-Region	1049	1101
+		Conserved-Region	12	402
+gltD	b3213	Conserved-Region	38	69
+gmd	b2053	Nucleotide-Phosphate-Binding-Region	86	90
+		Nucleotide-Phosphate-Binding-Region	64	65
+		Nucleotide-Phosphate-Binding-Region	9	14
+gmhA	b0222	Conserved-Region	37	192
+gmk	b3648	Nucleotide-Phosphate-Binding-Region	11	18
+		Conserved-Region	4	184
+gnd	b2029	Nucleotide-Phosphate-Binding-Region	74	76
+		Nucleotide-Phosphate-Binding-Region	33	35
+		Nucleotide-Phosphate-Binding-Region	10	15
+gntR	b3438	DNA-Binding-Region	8	27
+		Conserved-Region	6	60
+gor	b3500	Nucleotide-Phosphate-Binding-Region	34	41
+gpsA	b3608	Nucleotide-Phosphate-Binding-Region	12	17
+gpt	b0238	Nucleotide-Phosphate-Binding-Region	134	135
+		Nucleotide-Phosphate-Binding-Region	92	96
+grpE	b2614	Beta-Strand-Region	139	197
+		Protein-Structure-Region	2	33
+		Alpha-Helix-Region	40	109
+		Alpha-Helix-Region	117	137
+		Alpha-Helix-Region	89	109
+		Alpha-Helix-Region	40	85
+grxC	b3610	Conserved-Region	2	83
+grxD	b1654	Conserved-Region	5	107
+gshB	b2947	Nucleotide-Phosphate-Binding-Region	151	207
+		Conserved-Region	125	310
+gsiA	b0829	Nucleotide-Phosphate-Binding-Region	357	364
+		Nucleotide-Phosphate-Binding-Region	49	56
+		Conserved-Region	314	564
+		Conserved-Region	15	269
+gstA	b1635	Conserved-Region	87	201
+		Conserved-Region	1	81
+guaA	b2507	Nucleotide-Phosphate-Binding-Region	235	241
+		Conserved-Region	208	400
+		Conserved-Region	9	207
+guaB	b2508	Nucleotide-Phosphate-Binding-Region	298	300
+		Nucleotide-Phosphate-Binding-Region	248	250
+		Conserved-Region	153	214
+		Conserved-Region	93	149
+gyrB	b3699	Nucleotide-Phosphate-Binding-Region	335	337
+		Nucleotide-Phosphate-Binding-Region	115	120
+		Nucleotide-Phosphate-Binding-Region	102	103
+		Conserved-Region	418	533
+hcaC	b2540	Conserved-Region	4	99
+hcaD	b2542	Nucleotide-Phosphate-Binding-Region	146	174
+		Nucleotide-Phosphate-Binding-Region	5	36
+hcr	b0872	Conserved-Region	237	322
+		Conserved-Region	7	107
+hemN	b3867	Conserved-Region	47	280
+hemW	b2955	Conserved-Region	1	237
+hflC	b4175	Transmembrane-Region	3	23
+hflK	b4174	Transmembrane-Region	80	100
+hflX	b4173	Nucleotide-Phosphate-Binding-Region	343	345
+		Nucleotide-Phosphate-Binding-Region	317	320
+		Nucleotide-Phosphate-Binding-Region	251	254
+		Nucleotide-Phosphate-Binding-Region	229	233
+		Nucleotide-Phosphate-Binding-Region	204	211
+		Conserved-Region	198	365
+hinT	b1103	Nucleotide-Phosphate-Binding-Region	101	103
+		Nucleotide-Phosphate-Binding-Region	96	97
+		Nucleotide-Phosphate-Binding-Region	30	32
+		Conserved-Region	6	115
+		Nucleotide-Phosphate-Binding-Region	101	103
+		Nucleotide-Phosphate-Binding-Region	96	97
+		Nucleotide-Phosphate-Binding-Region	30	32
+hisH	b2023	Conserved-Region	2	196
+hisM	b2307	Conserved-Region	23	221
+		Transmembrane-Region	201	221
+		Transmembrane-Region	158	178
+		Transmembrane-Region	105	125
+		Transmembrane-Region	59	79
+		Transmembrane-Region	27	47
+hisP	b2306	Nucleotide-Phosphate-Binding-Region	38	45
+		Conserved-Region	6	252
+hisQ	b2308	Conserved-Region	13	212
+		Transmembrane-Region	195	215
+		Transmembrane-Region	153	173
+		Transmembrane-Region	88	108
+		Transmembrane-Region	59	79
+		Transmembrane-Region	13	33
+hiuH	b1970	Conserved-Region	134	137
+hpt	b0125	Nucleotide-Phosphate-Binding-Region	103	108
+hrpB	b0148	Nucleotide-Phosphate-Binding-Region	27	34
+		Conserved-Region	195	368
+		Conserved-Region	14	177
+hslR	b3400	Conserved-Region	9	71
+hslU	b3931	Nucleotide-Phosphate-Binding-Region	60	65
+hsrA	b3754	Transmembrane-Region	429	449
+		Transmembrane-Region	394	414
+		Transmembrane-Region	350	370
+		Transmembrane-Region	329	349
+		Transmembrane-Region	302	322
+		Transmembrane-Region	281	301
+		Transmembrane-Region	222	242
+		Transmembrane-Region	198	218
+		Transmembrane-Region	161	181
+		Transmembrane-Region	139	159
+		Transmembrane-Region	99	119
+		Transmembrane-Region	78	98
+		Transmembrane-Region	50	70
+		Transmembrane-Region	10	30
+htpX	b1829	Transmembrane-Region	34	54
+		Transmembrane-Region	4	24
+hyfR	b2491	DNA-Binding-Region	641	660
+		Nucleotide-Phosphate-Binding-Region	438	447
+		Nucleotide-Phosphate-Binding-Region	375	382
+		Conserved-Region	347	576
+		Conserved-Region	169	311
+ibpA	b3687	Conserved-Region	28	137
+idnK	b4268	Nucleotide-Phosphate-Binding-Region	10	17
+idnO	b4266	Nucleotide-Phosphate-Binding-Region	13	37
+ilvA	b3772	Conserved-Region	434	504
+		Conserved-Region	339	411
+ilvC	b3774	Conserved-Region	345	484
+		Conserved-Region	209	344
+		Conserved-Region	15	208
+		Nucleotide-Phosphate-Binding-Region	108	110
+		Nucleotide-Phosphate-Binding-Region	45	48
+ilvH	b0078	Conserved-Region	4	78
+ilvI	b0077	Nucleotide-Phosphate-Binding-Region	304	323
+		Nucleotide-Phosphate-Binding-Region	261	282
+infA	b0884	Conserved-Region	2	72
+infB	b3168	Nucleotide-Phosphate-Binding-Region	498	501
+		Nucleotide-Phosphate-Binding-Region	444	448
+		Nucleotide-Phosphate-Binding-Region	398	405
+		Conserved-Region	389	558
+insI3	b4284	Conserved-Region	213	379
+insK	b3558	Conserved-Region	117	279
+iscR	b2531	DNA-Binding-Region	28	51
+		Conserved-Region	2	131
+ispE	b1208	Nucleotide-Phosphate-Binding-Region	99	109
+kdgK	b3526	Nucleotide-Phosphate-Binding-Region	228	233
+		Nucleotide-Phosphate-Binding-Region	261	264
+		Nucleotide-Phosphate-Binding-Region	168	170
+kdpA	b0698	Transmembrane-Region	526	546
+		Transmembrane-Region	5	25
+		Transmembrane-Region	484	504
+		Transmembrane-Region	416	436
+		Transmembrane-Region	329	349
+		Transmembrane-Region	283	303
+		Transmembrane-Region	253	273
+		Transmembrane-Region	170	190
+		Transmembrane-Region	132	152
+		Transmembrane-Region	63	83
+kdpB	b0697	Nucleotide-Phosphate-Binding-Region	377	384
+		Transmembrane-Region	656	676
+		Transmembrane-Region	616	636
+		Transmembrane-Region	588	608
+		Transmembrane-Region	254	274
+		Transmembrane-Region	219	239
+		Transmembrane-Region	62	82
+		Transmembrane-Region	34	54
+kdpC	b0696	Transmembrane-Region	10	30
+kdpD	b0695	Conserved-Region	105	109
+		Conserved-Region	30	38
+		Conserved-Region	670	883
+		Transmembrane-Region	475	498
+		Transmembrane-Region	446	466
+		Transmembrane-Region	428	444
+		Transmembrane-Region	401	423
+kdpE	b0694	DNA-Binding-Region	126	225
+		Conserved-Region	3	116
+kdsD	b3197	Conserved-Region	277	328
+		Conserved-Region	210	268
+		Conserved-Region	42	184
+kduD	b2842	Nucleotide-Phosphate-Binding-Region	14	38
+kefB	b3350	Conserved-Region	402	524
+		Transmembrane-Region	356	376
+		Transmembrane-Region	324	344
+		Transmembrane-Region	291	311
+		Transmembrane-Region	268	288
+		Transmembrane-Region	230	250
+		Transmembrane-Region	207	227
+		Transmembrane-Region	177	197
+		Transmembrane-Region	152	172
+		Transmembrane-Region	115	135
+		Transmembrane-Region	87	107
+		Transmembrane-Region	55	75
+		Transmembrane-Region	29	49
+		Transmembrane-Region	4	24
+kup	b3747	Transmembrane-Region	419	439
+		Transmembrane-Region	396	416
+		Transmembrane-Region	363	383
+		Transmembrane-Region	337	357
+		Transmembrane-Region	276	296
+		Transmembrane-Region	247	267
+		Transmembrane-Region	213	233
+		Transmembrane-Region	165	185
+		Transmembrane-Region	137	157
+		Transmembrane-Region	103	123
+		Transmembrane-Region	49	69
+		Transmembrane-Region	9	29
+ldtA	b1990	Catalytic-Domain	191	209
+ldtD	b0925	Catalytic-Domain	514	530
+		Transmembrane-Region	11	26
+ldtE	b1678	Catalytic-Domain	193	211
+		Conserved-Region	40	84
+lepA	b2569	Nucleotide-Phosphate-Binding-Region	131	134
+		Nucleotide-Phosphate-Binding-Region	14	19
+		Conserved-Region	2	184
+lepB	b2568	Transmembrane-Region	59	77
+		Transmembrane-Region	4	22
+leuB	b0073	Nucleotide-Phosphate-Binding-Region	285	297
+		Nucleotide-Phosphate-Binding-Region	78	91
+		Conserved-Region	90	100
+lgoR	b4357	DNA-Binding-Region	31	50
+		Conserved-Region	1	70
+lgt	b2828	Transmembrane-Region	262	282
+		Transmembrane-Region	226	244
+		Transmembrane-Region	198	218
+		Transmembrane-Region	130	150
+		Transmembrane-Region	99	119
+		Transmembrane-Region	57	76
+		Transmembrane-Region	25	43
+		Conserved-Region	103	108
+ligA	b2411	Nucleotide-Phosphate-Binding-Region	81	82
+		Nucleotide-Phosphate-Binding-Region	32	36
+		Conserved-Region	593	671
+lipA	b0628	Conserved-Region	80	297
+lipB	b0630	Conserved-Region	32	207
+livF	b3454	Nucleotide-Phosphate-Binding-Region	38	45
+		Conserved-Region	6	237
+livG	b3455	Nucleotide-Phosphate-Binding-Region	38	45
+		Conserved-Region	6	254
+livH	b3457	Transmembrane-Region	281	301
+		Transmembrane-Region	246	266
+		Transmembrane-Region	204	224
+		Transmembrane-Region	155	175
+		Transmembrane-Region	105	125
+		Transmembrane-Region	69	89
+		Transmembrane-Region	46	66
+		Transmembrane-Region	22	42
+livM	b3456	Transmembrane-Region	387	407
+		Transmembrane-Region	353	373
+		Transmembrane-Region	311	331
+		Transmembrane-Region	260	280
+		Transmembrane-Region	191	211
+		Transmembrane-Region	167	187
+		Transmembrane-Region	145	165
+		Transmembrane-Region	120	140
+		Transmembrane-Region	92	112
+		Transmembrane-Region	45	65
+		Transmembrane-Region	6	26
+lldD	b3605	Nucleotide-Phosphate-Binding-Region	306	330
+		Conserved-Region	1	380
+lolC	b1116	Transmembrane-Region	358	378
+		Transmembrane-Region	310	330
+		Transmembrane-Region	270	290
+		Transmembrane-Region	25	45
+lolD	b1117	Nucleotide-Phosphate-Binding-Region	42	49
+		Conserved-Region	6	233
+lon	b0439	Conserved-Region	592	773
+		Conserved-Region	11	202
+		Nucleotide-Phosphate-Binding-Region	356	363
+lpd	b0116	Nucleotide-Phosphate-Binding-Region	270	273
+		Nucleotide-Phosphate-Binding-Region	182	186
+		Nucleotide-Phosphate-Binding-Region	36	45
+lptB	b3201	Nucleotide-Phosphate-Binding-Region	36	43
+		Conserved-Region	4	237
+lpxK	b0915	Nucleotide-Phosphate-Binding-Region	55	62
+lrhA	b2289	DNA-Binding-Region	28	47
+		Conserved-Region	11	68
+lrp	b0889	DNA-Binding-Region	31	50
+		Conserved-Region	12	73
+lspA	b0027	Transmembrane-Region	142	159
+		Transmembrane-Region	96	113
+		Transmembrane-Region	70	88
+		Transmembrane-Region	12	26
+lsrC	b1514	Transmembrane-Region	284	304
+		Transmembrane-Region	252	272
+		Transmembrane-Region	213	233
+		Transmembrane-Region	157	177
+		Transmembrane-Region	115	135
+		Transmembrane-Region	93	113
+		Transmembrane-Region	70	90
+		Transmembrane-Region	39	59
+		Transmembrane-Region	14	34
+lysR	b2839	DNA-Binding-Region	21	40
+		Conserved-Region	1	61
+macA	b0878	Transmembrane-Region	11	31
+maeB	b2463	Nucleotide-Phosphate-Binding-Region	76	83
+malK	b4035	Nucleotide-Phosphate-Binding-Region	36	43
+		Conserved-Region	4	234
+manX	b1817	Conserved-Region	157	320
+		Conserved-Region	2	124
+marR	b1530	Conserved-Region	11	144
+mazG	b2781	Nucleotide-Phosphate-Binding-Region	222	226
+		Nucleotide-Phosphate-Binding-Region	189	192
+		Nucleotide-Phosphate-Binding-Region	168	172
+mdtA	b2074	Transmembrane-Region	6	27
+mdtB	b2075	Transmembrane-Region	1000	1022
+		Transmembrane-Region	968	990
+		Transmembrane-Region	909	931
+		Transmembrane-Region	867	889
+		Transmembrane-Region	535	557
+		Transmembrane-Region	472	494
+		Transmembrane-Region	438	460
+		Transmembrane-Region	396	418
+		Transmembrane-Region	367	389
+		Transmembrane-Region	345	362
+		Transmembrane-Region	15	37
+mdtG	b1053	Transmembrane-Region	378	398
+		Transmembrane-Region	319	339
+		Transmembrane-Region	290	310
+		Transmembrane-Region	256	276
+		Transmembrane-Region	224	244
+		Transmembrane-Region	173	193
+		Transmembrane-Region	146	166
+		Transmembrane-Region	115	135
+		Transmembrane-Region	92	112
+		Transmembrane-Region	58	78
+		Transmembrane-Region	16	36
+melA	b4119	Nucleotide-Phosphate-Binding-Region	5	71
+mepM	b1856	Conserved-Region	96	141
+		Transmembrane-Region	21	40
+metF	b3941	Nucleotide-Phosphate-Binding-Region	165	172
+		Nucleotide-Phosphate-Binding-Region	156	159
+		Nucleotide-Phosphate-Binding-Region	131	132
+		Nucleotide-Phosphate-Binding-Region	118	120
+		Nucleotide-Phosphate-Binding-Region	59	60
+		Nucleotide-Phosphate-Binding-Region	59	62
+		Nucleotide-Phosphate-Binding-Region	28	33
+metH	b4019	Conserved-Region	897	1227
+		Conserved-Region	746	881
+		Conserved-Region	650	744
+		Conserved-Region	356	617
+		Conserved-Region	2	325
+metI	b0198	Conserved-Region	13	204
+		Transmembrane-Region	186	206
+		Transmembrane-Region	152	172
+		Transmembrane-Region	81	101
+		Transmembrane-Region	58	78
+		Transmembrane-Region	20	40
+metK	b2942	Nucleotide-Phosphate-Binding-Region	245	246
+		Nucleotide-Phosphate-Binding-Region	230	231
+		Nucleotide-Phosphate-Binding-Region	164	166
+metN	b0199	Nucleotide-Phosphate-Binding-Region	40	46
+		Nucleotide-Phosphate-Binding-Region	38	45
+		Conserved-Region	2	241
+mfd	b1114	Nucleotide-Phosphate-Binding-Region	628	635
+		Conserved-Region	798	951
+		Conserved-Region	615	776
+mglA	b2149	Nucleotide-Phosphate-Binding-Region	46	53
+		Conserved-Region	264	506
+		Conserved-Region	14	249
+mglB	b2150	Ca-Binding-Region	227	228
+		Ca-Binding-Region	157	165
+mgsA	b0963	Conserved-Region	6	152
+miaA	b4171	Nucleotide-Phosphate-Binding-Region	17	24
+miaB	b0661	Conserved-Region	143	375
+		Conserved-Region	378	441
+		Conserved-Region	3	120
+minC	b1176	Conserved-Region	133	136
+minD	b1175	Nucleotide-Phosphate-Binding-Region	11	18
+		Nucleotide-Phosphate-Binding-Region	10	17
+mlaF	b3195	Nucleotide-Phosphate-Binding-Region	41	48
+		Conserved-Region	9	245
+mltB	b2701	Ca-Binding-Region	237	251
+mltG	b1097	Transmembrane-Region	4	24
+		Transmembrane-Region	5	24
+mnaT	b1448	Conserved-Region	1	163
+mnmA	b1133	Nucleotide-Phosphate-Binding-Region	11	18
+mnmE	b3706	Nucleotide-Phosphate-Binding-Region	358	360
+		Nucleotide-Phosphate-Binding-Region	335	338
+		Nucleotide-Phosphate-Binding-Region	270	273
+		Nucleotide-Phosphate-Binding-Region	245	251
+		Nucleotide-Phosphate-Binding-Region	226	231
+		Conserved-Region	216	377
+mnmG	b3741	Nucleotide-Phosphate-Binding-Region	273	287
+		Nucleotide-Phosphate-Binding-Region	13	18
+mntH	b2392	Transmembrane-Region	388	406
+		Transmembrane-Region	351	370
+		Transmembrane-Region	328	344
+		Transmembrane-Region	277	297
+		Transmembrane-Region	239	258
+		Transmembrane-Region	197	220
+		Transmembrane-Region	156	175
+		Transmembrane-Region	126	145
+		Transmembrane-Region	96	118
+		Transmembrane-Region	52	71
+		Transmembrane-Region	20	39
+moaA	b0781	Conserved-Region	8	234
+		Nucleotide-Phosphate-Binding-Region	262	264
+mobA	b3857	Nucleotide-Phosphate-Binding-Region	12	14
+mobB	b3856	Nucleotide-Phosphate-Binding-Region	17	21
+		Nucleotide-Phosphate-Binding-Region	100	103
+		Nucleotide-Phosphate-Binding-Region	51	54
+		Nucleotide-Phosphate-Binding-Region	17	21
+modB	b0764	Conserved-Region	11	219
+		Transmembrane-Region	202	222
+		Transmembrane-Region	137	157
+		Transmembrane-Region	84	104
+		Transmembrane-Region	50	70
+		Transmembrane-Region	17	37
+modC	b0765	Conserved-Region	289	352
+		Nucleotide-Phosphate-Binding-Region	31	38
+		Conserved-Region	1	229
+moeB	b0826	Nucleotide-Phosphate-Binding-Region	130	131
+		Nucleotide-Phosphate-Binding-Region	69	73
+motA	b1890	Transmembrane-Region	201	222
+		Transmembrane-Region	171	191
+		Transmembrane-Region	34	51
+		Transmembrane-Region	2	21
+motB	b1889	Alpha-Helix-Region	210	227
+		Conserved-Region	148	268
+		Transmembrane-Region	28	49
+mraY	b0087	Transmembrane-Region	342	357
+		Transmembrane-Region	288	299
+		Transmembrane-Region	271	284
+		Transmembrane-Region	239	251
+		Transmembrane-Region	200	220
+		Transmembrane-Region	174	188
+		Transmembrane-Region	134	156
+		Transmembrane-Region	97	113
+		Transmembrane-Region	77	90
+		Transmembrane-Region	19	45
+mrcA	b3396	Transmembrane-Region	6	26
+mrp	b2113	Nucleotide-Phosphate-Binding-Region	115	122
+msbA	b0914	Nucleotide-Phosphate-Binding-Region	376	383
+		Conserved-Region	342	578
+		Conserved-Region	27	310
+		Transmembrane-Region	275	295
+		Transmembrane-Region	253	273
+		Transmembrane-Region	167	186
+		Transmembrane-Region	140	162
+		Transmembrane-Region	63	83
+mscK	b0465	Transmembrane-Region	922	942
+		Transmembrane-Region	887	907
+		Transmembrane-Region	840	860
+		Transmembrane-Region	797	817
+		Transmembrane-Region	729	749
+		Transmembrane-Region	693	713
+		Transmembrane-Region	658	678
+		Transmembrane-Region	635	655
+		Transmembrane-Region	583	603
+		Transmembrane-Region	561	581
+		Transmembrane-Region	500	520
+mscL	b3291	Transmembrane-Region	75	94
+		Transmembrane-Region	17	45
+mscS	b2924	Transmembrane-Region	91	111
+		Transmembrane-Region	68	88
+		Transmembrane-Region	31	52
+msrB	b1778	Conserved-Region	7	129
+msrQ	b1972	Transmembrane-Region	171	189
+		Transmembrane-Region	150	167
+		Transmembrane-Region	116	136
+		Transmembrane-Region	82	102
+		Transmembrane-Region	45	67
+		Transmembrane-Region	10	30
+mtgA	b3208	Transmembrane-Region	19	39
+murC	b0091	Nucleotide-Phosphate-Binding-Region	126	132
+murD	b0088	Nucleotide-Phosphate-Binding-Region	112	118
+murE	b0085	Nucleotide-Phosphate-Binding-Region	116	122
+murF	b0086	Nucleotide-Phosphate-Binding-Region	107	113
+murJ	b1069	Transmembrane-Region	444	463
+		Transmembrane-Region	380	402
+		Transmembrane-Region	347	374
+		Transmembrane-Region	303	337
+		Transmembrane-Region	264	292
+		Transmembrane-Region	224	253
+		Transmembrane-Region	186	207
+		Transmembrane-Region	157	178
+		Transmembrane-Region	124	154
+		Transmembrane-Region	83	109
+		Transmembrane-Region	41	69
+		Transmembrane-Region	6	32
+		Transmembrane-Region	478	499
+		Transmembrane-Region	410	429
+mutM	b3635	Zn-Finger-Region	235	269
+mutS	b2733	Nucleotide-Phosphate-Binding-Region	614	621
+nac	b1988	DNA-Binding-Region	18	37
+		Conserved-Region	1	58
+nadB	b2574	Nucleotide-Phosphate-Binding-Region	12	26
+nadE	b1740	Nucleotide-Phosphate-Binding-Region	260	261
+		Nucleotide-Phosphate-Binding-Region	170	180
+		Nucleotide-Phosphate-Binding-Region	46	53
+nadK	b2615	Nucleotide-Phosphate-Binding-Region	188	193
+		Nucleotide-Phosphate-Binding-Region	147	148
+		Nucleotide-Phosphate-Binding-Region	73	74
+nagK	b1119	Nucleotide-Phosphate-Binding-Region	133	140
+		Nucleotide-Phosphate-Binding-Region	4	11
+nanR	b3226	DNA-Binding-Region	58	77
+		Conserved-Region	30	98
+narP	b2193	DNA-Binding-Region	171	190
+		Conserved-Region	147	212
+		Conserved-Region	8	124
+nemA	b1650	Nucleotide-Phosphate-Binding-Region	324	325
+nepI	b3662	Transmembrane-Region	367	387
+		Transmembrane-Region	344	364
+		Transmembrane-Region	306	326
+		Transmembrane-Region	282	302
+		Transmembrane-Region	256	276
+		Transmembrane-Region	216	236
+		Transmembrane-Region	176	196
+		Transmembrane-Region	148	168
+		Transmembrane-Region	108	128
+		Transmembrane-Region	86	106
+		Transmembrane-Region	55	75
+		Transmembrane-Region	22	42
+nfeF	b3070	Conserved-Region	15	136
+nimR	b1790	DNA-Binding-Region	225	248
+		DNA-Binding-Region	178	199
+		Conserved-Region	158	258
+nimT	b1791	Transmembrane-Region	367	387
+		Transmembrane-Region	335	355
+		Transmembrane-Region	305	325
+		Transmembrane-Region	279	299
+		Transmembrane-Region	250	270
+		Transmembrane-Region	219	239
+		Transmembrane-Region	164	184
+		Transmembrane-Region	141	161
+		Transmembrane-Region	102	122
+		Transmembrane-Region	81	101
+		Transmembrane-Region	53	73
+		Transmembrane-Region	13	33
+nirB	b3365	Nucleotide-Phosphate-Binding-Region	193	225
+		Nucleotide-Phosphate-Binding-Region	44	79
+nnr	b4167	Nucleotide-Phosphate-Binding-Region	432	441
+		Nucleotide-Phosphate-Binding-Region	412	416
+		Conserved-Region	234	501
+		Conserved-Region	23	225
+		Nucleotide-Phosphate-Binding-Region	412	416
+		Nucleotide-Phosphate-Binding-Region	432	441
+nrdH	b2673	Conserved-Region	1	81
+nrdR	b0413	Zn-Finger-Region	3	34
+		Conserved-Region	49	139
+nsrR	b4178	DNA-Binding-Region	28	51
+		Conserved-Region	2	129
+nth	b1633	Conserved-Region	108	127
+nudC	b3996	Conserved-Region	125	248
+nudG	b1759	Conserved-Region	2	127
+nudK	b2467	Conserved-Region	43	180
+nudL	b1813	Conserved-Region	29	160
+nuoA	b2288	Transmembrane-Region	98	118
+		Transmembrane-Region	68	88
+		Transmembrane-Region	16	36
+nuoF	b2284	Nucleotide-Phosphate-Binding-Region	174	221
+		Nucleotide-Phosphate-Binding-Region	61	70
+nuoG	b2283	Conserved-Region	83	122
+		Conserved-Region	221	277
+		Conserved-Region	2	83
+nuoH	b2282	Transmembrane-Region	304	324
+		Transmembrane-Region	265	285
+		Transmembrane-Region	237	257
+		Transmembrane-Region	186	206
+		Transmembrane-Region	154	174
+		Transmembrane-Region	114	134
+		Transmembrane-Region	81	101
+		Transmembrane-Region	11	31
+nuoI	b2281	Conserved-Region	90	119
+		Conserved-Region	50	80
+nuoL	b2278	Transmembrane-Region	590	607
+		Transmembrane-Region	495	514
+		Transmembrane-Region	455	472
+		Transmembrane-Region	414	437
+		Transmembrane-Region	374	397
+		Transmembrane-Region	339	356
+		Transmembrane-Region	307	325
+		Transmembrane-Region	282	300
+		Transmembrane-Region	249	267
+		Transmembrane-Region	211	228
+		Transmembrane-Region	116	133
+		Transmembrane-Region	75	99
+		Transmembrane-Region	32	52
+		Transmembrane-Region	7	23
+nuoM	b2277	Transmembrane-Region	465	485
+		Transmembrane-Region	426	446
+		Transmembrane-Region	404	424
+		Transmembrane-Region	383	403
+		Transmembrane-Region	340	360
+		Transmembrane-Region	314	334
+		Transmembrane-Region	286	306
+		Transmembrane-Region	259	279
+		Transmembrane-Region	222	242
+		Transmembrane-Region	174	194
+		Transmembrane-Region	122	142
+		Transmembrane-Region	83	103
+		Transmembrane-Region	30	50
+		Transmembrane-Region	1	21
+nuoN	b2276	Transmembrane-Region	455	475
+		Transmembrane-Region	408	430
+		Transmembrane-Region	373	393
+		Transmembrane-Region	326	346
+		Transmembrane-Region	297	317
+		Transmembrane-Region	271	291
+		Transmembrane-Region	235	255
+		Transmembrane-Region	203	223
+		Transmembrane-Region	159	179
+		Transmembrane-Region	127	147
+		Transmembrane-Region	105	125
+		Transmembrane-Region	71	91
+		Transmembrane-Region	35	55
+		Transmembrane-Region	8	28
+nusA	b3169	Conserved-Region	302	368
+		Conserved-Region	230	293
+		Conserved-Region	135	200
+nusG	b3982	Conserved-Region	130	161
+obgE	b3183	Conserved-Region	1	159
+		Nucleotide-Phosphate-Binding-Region	314	316
+		Nucleotide-Phosphate-Binding-Region	213	216
+		Nucleotide-Phosphate-Binding-Region	191	195
+		Nucleotide-Phosphate-Binding-Region	166	173
+		Conserved-Region	160	333
+		Nucleotide-Phosphate-Binding-Region	283	286
+ompR	b3405	DNA-Binding-Region	135	234
+		Conserved-Region	6	120
+oppB	b1244	Conserved-Region	94	293
+		Transmembrane-Region	272	293
+		Transmembrane-Region	227	250
+		Transmembrane-Region	173	190
+		Transmembrane-Region	138	158
+		Transmembrane-Region	100	121
+		Transmembrane-Region	10	30
+oppC	b1245	Conserved-Region	101	290
+		Transmembrane-Region	268	290
+		Transmembrane-Region	216	236
+		Transmembrane-Region	164	180
+		Transmembrane-Region	140	160
+		Transmembrane-Region	103	122
+		Transmembrane-Region	38	59
+oppD	b1246	Nucleotide-Phosphate-Binding-Region	56	63
+		Conserved-Region	20	269
+oppF	b1247	Nucleotide-Phosphate-Binding-Region	57	64
+		Conserved-Region	12	265
+oxyR	b3961	DNA-Binding-Region	18	37
+		Conserved-Region	1	58
+pal	b0741	Conserved-Region	60	173
+		Conserved-Region	147	150
+panC	b0133	Nucleotide-Phosphate-Binding-Region	186	189
+		Nucleotide-Phosphate-Binding-Region	149	152
+		Nucleotide-Phosphate-Binding-Region	30	37
+patD	b1444	Nucleotide-Phosphate-Binding-Region	225	228
+		Nucleotide-Phosphate-Binding-Region	146	148
+		Nucleotide-Phosphate-Binding-Region	225	231
+		Nucleotide-Phosphate-Binding-Region	172	175
+pbpC	b2519	Transmembrane-Region	9	29
+		Transmembrane-Region	9	29
+pck	b3403	Nucleotide-Phosphate-Binding-Region	449	450
+		Nucleotide-Phosphate-Binding-Region	248	256
+pdeR	b1285	Conserved-Region	406	658
+		Conserved-Region	265	397
+		Conserved-Region	109	179
+pdxH	b1638	Nucleotide-Phosphate-Binding-Region	146	147
+		Nucleotide-Phosphate-Binding-Region	82	83
+		Nucleotide-Phosphate-Binding-Region	67	72
+		Nucleotide-Phosphate-Binding-Region	146	147
+		Nucleotide-Phosphate-Binding-Region	82	83
+pdxI	b1406	Nucleotide-Phosphate-Binding-Region	210	218
+pdxK	b2418	Nucleotide-Phosphate-Binding-Region	221	224
+pgk	b2926	Nucleotide-Phosphate-Binding-Region	340	343
+pgrR	b1328	DNA-Binding-Region	21	40
+		Conserved-Region	4	61
+pgsA	b1912	Transmembrane-Region	147	169
+		Transmembrane-Region	88	108
+		Transmembrane-Region	62	82
+		Transmembrane-Region	14	38
+pheA	b2599	Conserved-Region	299	376
+		Conserved-Region	105	285
+		Conserved-Region	1	92
+pheT	b1713	Conserved-Region	701	794
+		Conserved-Region	401	476
+		Conserved-Region	39	148
+phnC	b4106	Nucleotide-Phosphate-Binding-Region	37	44
+		Conserved-Region	5	253
+phnK	b4097	Nucleotide-Phosphate-Binding-Region	38	45
+		Conserved-Region	6	246
+phnL	b4096	Nucleotide-Phosphate-Binding-Region	41	48
+		Conserved-Region	2	226
+phnN	b4094	Nucleotide-Phosphate-Binding-Region	10	17
+phnO	b4093	Conserved-Region	4	144
+phoB	b0399	DNA-Binding-Region	129	227
+		Conserved-Region	4	120
+phoP	b1130	DNA-Binding-Region	124	222
+		Conserved-Region	2	116
+phoR	b0400	Conserved-Region	210	425
+		Conserved-Region	96	172
+		Transmembrane-Region	33	51
+		Transmembrane-Region	10	28
+phr	b0708	Nucleotide-Phosphate-Binding-Region	373	375
+		Nucleotide-Phosphate-Binding-Region	275	282
+		Nucleotide-Phosphate-Binding-Region	235	239
+		Conserved-Region	2	134
+pinE	b1158	DNA-Binding-Region	161	180
+		Conserved-Region	1	134
+pitA	b3493	Transmembrane-Region	473	493
+		Transmembrane-Region	430	450
+		Transmembrane-Region	382	402
+		Transmembrane-Region	233	253
+		Transmembrane-Region	207	227
+		Transmembrane-Region	155	175
+		Transmembrane-Region	124	144
+		Transmembrane-Region	94	114
+		Transmembrane-Region	52	72
+		Transmembrane-Region	5	25
+plsY	b3059	Transmembrane-Region	138	158
+		Transmembrane-Region	112	132
+		Transmembrane-Region	81	101
+		Transmembrane-Region	53	73
+		Transmembrane-Region	4	24
+pnp	b3164	Conserved-Region	622	690
+		Conserved-Region	553	612
+pntA	b1603	Nucleotide-Phosphate-Binding-Region	195	197
+		Nucleotide-Phosphate-Binding-Region	120	122
+		Transmembrane-Region	477	497
+		Transmembrane-Region	453	473
+		Transmembrane-Region	423	443
+		Transmembrane-Region	402	422
+pntB	b1602	Transmembrane-Region	309	329
+		Transmembrane-Region	240	260
+		Transmembrane-Region	216	236
+		Transmembrane-Region	189	209
+		Transmembrane-Region	165	185
+		Transmembrane-Region	116	136
+		Transmembrane-Region	83	103
+		Transmembrane-Region	46	66
+		Transmembrane-Region	4	24
+polA	b3863	Conserved-Region	324	517
+		Conserved-Region	1	323
+potE	b0692	Transmembrane-Region	354	374
+		Transmembrane-Region	321	341
+		Transmembrane-Region	276	296
+		Transmembrane-Region	225	245
+		Transmembrane-Region	114	134
+		Transmembrane-Region	91	111
+		Transmembrane-Region	40	60
+		Transmembrane-Region	10	30
+		Transmembrane-Region	410	430
+		Transmembrane-Region	387	407
+		Transmembrane-Region	186	206
+		Transmembrane-Region	152	172
+potG	b0855	Nucleotide-Phosphate-Binding-Region	52	59
+		Conserved-Region	20	250
+potH	b0856	Conserved-Region	99	305
+		Transmembrane-Region	285	304
+		Transmembrane-Region	240	259
+		Transmembrane-Region	185	204
+		Transmembrane-Region	134	153
+		Transmembrane-Region	105	124
+		Transmembrane-Region	32	51
+potI	b0857	Conserved-Region	65	260
+		Transmembrane-Region	244	263
+		Transmembrane-Region	187	206
+		Transmembrane-Region	141	160
+		Transmembrane-Region	116	135
+		Transmembrane-Region	69	88
+		Transmembrane-Region	14	33
+poxB	b0871	Nucleotide-Phosphate-Binding-Region	403	404
+		Nucleotide-Phosphate-Binding-Region	311	312
+		Nucleotide-Phosphate-Binding-Region	274	278
+		Nucleotide-Phosphate-Binding-Region	251	254
+		Nucleotide-Phosphate-Binding-Region	234	235
+ppiB	b0525	Conserved-Region	1	162
+ppiC	b3775	Conserved-Region	2	91
+ppk	b2501	Conserved-Region	430	464
+prc	b1830	Conserved-Region	238	322
+preA	b2147	Conserved-Region	369	398
+		Conserved-Region	335	367
+prfC	b4375	Nucleotide-Phosphate-Binding-Region	142	145
+		Nucleotide-Phosphate-Binding-Region	88	92
+		Nucleotide-Phosphate-Binding-Region	20	27
+		Conserved-Region	11	280
+priA	b3935	Zn-Finger-Region	463	479
+		Zn-Finger-Region	436	448
+		Nucleotide-Phosphate-Binding-Region	224	231
+		Conserved-Region	447	638
+		Conserved-Region	211	377
+proB	b0242	Nucleotide-Phosphate-Binding-Region	211	217
+		Nucleotide-Phosphate-Binding-Region	169	170
+		Conserved-Region	275	353
+proP	b4111	Coiled-Coil-Region	456	500
+		Transmembrane-Region	417	437
+		Transmembrane-Region	391	411
+		Transmembrane-Region	351	371
+		Transmembrane-Region	326	346
+		Transmembrane-Region	298	318
+		Transmembrane-Region	261	281
+		Transmembrane-Region	195	215
+		Transmembrane-Region	170	190
+		Transmembrane-Region	122	142
+		Transmembrane-Region	98	118
+		Transmembrane-Region	66	86
+		Transmembrane-Region	38	58
+proV	b2677	Nucleotide-Phosphate-Binding-Region	61	68
+		Conserved-Region	343	400
+		Conserved-Region	282	341
+		Conserved-Region	29	265
+proW	b2678	Transmembrane-Region	149	169
+		Conserved-Region	145	324
+		Transmembrane-Region	301	321
+		Transmembrane-Region	271	291
+		Transmembrane-Region	199	219
+		Transmembrane-Region	122	142
+		Transmembrane-Region	100	120
+prs	b1207	Nucleotide-Phosphate-Binding-Region	96	97
+		Nucleotide-Phosphate-Binding-Region	37	39
+pstB	b3725	Nucleotide-Phosphate-Binding-Region	43	50
+		Conserved-Region	11	252
+ptsN	b3204	Conserved-Region	12	156
+ptsP	b2829	Conserved-Region	1	127
+purA	b4177	Nucleotide-Phosphate-Binding-Region	415	417
+		Nucleotide-Phosphate-Binding-Region	332	334
+		Nucleotide-Phosphate-Binding-Region	41	43
+		Nucleotide-Phosphate-Binding-Region	13	19
+purD	b4005	Nucleotide-Phosphate-Binding-Region	135	196
+		Conserved-Region	109	316
+purF	b2312	Conserved-Region	2	236
+purH	b4006	Conserved-Region	1	148
+purK	b0522	Nucleotide-Phosphate-Binding-Region	237	238
+		Nucleotide-Phosphate-Binding-Region	153	156
+		Nucleotide-Phosphate-Binding-Region	125	131
+		Conserved-Region	84	267
+purR	b1658	DNA-Binding-Region	48	56
+		DNA-Binding-Region	4	23
+		Conserved-Region	2	56
+purU	b1232	Conserved-Region	8	86
+puuC	b1300	Nucleotide-Phosphate-Binding-Region	244	249
+puuD	b1298	Conserved-Region	16	250
+puuR	b1299	DNA-Binding-Region	23	42
+		Conserved-Region	12	66
+pykA	b1854	Nucleotide-Phosphate-Binding-Region	38	41
+pyrD	b0945	Nucleotide-Phosphate-Binding-Region	318	319
+		Nucleotide-Phosphate-Binding-Region	62	66
+pyrG	b2780	Nucleotide-Phosphate-Binding-Region	239	241
+		Nucleotide-Phosphate-Binding-Region	187	192
+		Nucleotide-Phosphate-Binding-Region	147	149
+		Nucleotide-Phosphate-Binding-Region	15	20
+		Conserved-Region	291	542
+pyrH	b0171	Nucleotide-Phosphate-Binding-Region	138	145
+		Nucleotide-Phosphate-Binding-Region	15	18
+qmcA	b0489	Transmembrane-Region	3	23
+qorA	b4051	Nucleotide-Phosphate-Binding-Region	264	266
+		Nucleotide-Phosphate-Binding-Region	238	241
+		Nucleotide-Phosphate-Binding-Region	173	177
+		Nucleotide-Phosphate-Binding-Region	152	153
+		Nucleotide-Phosphate-Binding-Region	42	46
+qorB	b4211	Nucleotide-Phosphate-Binding-Region	138	143
+		Nucleotide-Phosphate-Binding-Region	73	75
+		Nucleotide-Phosphate-Binding-Region	6	11
+queC	b0444	Nucleotide-Phosphate-Binding-Region	8	18
+queF	b2794	Nucleotide-Phosphate-Binding-Region	258	259
+		Nucleotide-Phosphate-Binding-Region	90	91
+queG	b4166	Conserved-Region	181	213
+radA	b4389	Nucleotide-Phosphate-Binding-Region	102	109
+		Zn-Finger-Region	11	28
+rapA	b0059	Nucleotide-Phosphate-Binding-Region	177	184
+		Conserved-Region	490	662
+		Conserved-Region	164	334
+rarA	b0892	Nucleotide-Phosphate-Binding-Region	57	64
+rarD	b3819	Conserved-Region	18	145
+		Transmembrane-Region	271	290
+		Transmembrane-Region	239	261
+		Transmembrane-Region	212	234
+		Transmembrane-Region	180	197
+		Transmembrane-Region	150	167
+		Transmembrane-Region	129	146
+		Transmembrane-Region	100	122
+		Transmembrane-Region	73	95
+		Transmembrane-Region	38	60
+		Transmembrane-Region	12	34
+rbsC	b3750	Transmembrane-Region	295	316
+		Transmembrane-Region	221	240
+		Transmembrane-Region	169	190
+		Transmembrane-Region	126	145
+		Transmembrane-Region	57	77
+		Transmembrane-Region	23	43
+rbsK	b3752	Nucleotide-Phosphate-Binding-Region	254	255
+		Nucleotide-Phosphate-Binding-Region	223	228
+rbsR	b3753	DNA-Binding-Region	4	23
+		Conserved-Region	2	56
+rcdB	b3521	DNA-Binding-Region	19	38
+		Conserved-Region	1	59
+rclA	b0304	Nucleotide-Phosphate-Binding-Region	33	43
+recA	b2699	Nucleotide-Phosphate-Binding-Region	67	74
+recG	b3652	Nucleotide-Phosphate-Binding-Region	296	303
+		Conserved-Region	482	628
+		Conserved-Region	283	448
+recN	b2616	Nucleotide-Phosphate-Binding-Region	29	36
+recQ	b3822	Nucleotide-Phosphate-Binding-Region	47	54
+		Conserved-Region	529	609
+		Conserved-Region	223	371
+		Conserved-Region	34	202
+recR	b0472	Zn-Finger-Region	57	72
+		Conserved-Region	81	176
+rfbD	b2040	Nucleotide-Phosphate-Binding-Region	10	12
+		Nucleotide-Phosphate-Binding-Region	63	65
+		Nucleotide-Phosphate-Binding-Region	39	40
+rffG	b3788	Nucleotide-Phosphate-Binding-Region	81	85
+		Nucleotide-Phosphate-Binding-Region	12	13
+		Nucleotide-Phosphate-Binding-Region	160	164
+		Nucleotide-Phosphate-Binding-Region	59	60
+		Nucleotide-Phosphate-Binding-Region	33	36
+rhaS	b3905	DNA-Binding-Region	239	262
+		DNA-Binding-Region	191	212
+		Conserved-Region	174	272
+rhlE	b0797	Nucleotide-Phosphate-Binding-Region	45	52
+		Conserved-Region	219	381
+		Conserved-Region	32	208
+rho	b3783	Conserved-Region	48	123
+		Nucleotide-Phosphate-Binding-Region	181	186
+		Nucleotide-Phosphate-Binding-Region	169	174
+rhtA	b0813	Conserved-Region	159	278
+		Conserved-Region	30	135
+		Transmembrane-Region	263	283
+		Transmembrane-Region	238	258
+		Transmembrane-Region	201	221
+		Transmembrane-Region	176	196
+		Transmembrane-Region	147	167
+		Transmembrane-Region	119	139
+		Transmembrane-Region	94	114
+		Transmembrane-Region	72	92
+		Transmembrane-Region	39	59
+		Transmembrane-Region	10	30
+rhtB	b3824	Transmembrane-Region	182	202
+		Transmembrane-Region	148	168
+		Transmembrane-Region	117	137
+		Transmembrane-Region	68	88
+		Transmembrane-Region	45	65
+		Transmembrane-Region	5	25
+ribA	b1277	Nucleotide-Phosphate-Binding-Region	92	94
+		Nucleotide-Phosphate-Binding-Region	49	53
+ribD	b0414	Nucleotide-Phosphate-Binding-Region	301	304
+		Nucleotide-Phosphate-Binding-Region	161	164
+		Conserved-Region	1	123
+rimJ	b1066	Conserved-Region	18	188
+rlmN	b2517	Conserved-Region	111	350
+rlpA	b0633	Conserved-Region	285	361
+rluB	b1269	Conserved-Region	3	75
+rluC	b1086	Conserved-Region	20	83
+rluD	b2594	Conserved-Region	18	91
+rnc	b2567	Conserved-Region	155	225
+		Conserved-Region	6	128
+rne	b1084	Conserved-Region	39	119
+rnhA	b0214	Conserved-Region	1	142
+rnr	b4179	Conserved-Region	644	725
+rob	b4396	DNA-Binding-Region	73	96
+		DNA-Binding-Region	25	46
+		Conserved-Region	8	106
+rpoB	b3987	Conserved-Region	1269	1274
+		Conserved-Region	1104	1107
+rpoD	b3067	DNA-Binding-Region	573	592
+rpoH	b3461	DNA-Binding-Region	253	272
+rpoN	b3202	DNA-Binding-Region	366	385
+rppH	b2830	Conserved-Region	6	149
+rpsA	b0911	Conserved-Region	451	520
+		Conserved-Region	364	434
+		Conserved-Region	277	347
+		Conserved-Region	192	260
+		Conserved-Region	105	171
+		Conserved-Region	21	87
+rpsC	b3314	Conserved-Region	39	107
+rpsD	b3296	Conserved-Region	96	156
+rpsE	b3303	Conserved-Region	11	74
+rseP	b0176	Conserved-Region	222	309
+		Conserved-Region	127	220
+		Transmembrane-Region	430	450
+		Transmembrane-Region	376	396
+		Transmembrane-Region	104	124
+		Transmembrane-Region	1	21
+rssA	b1234	Conserved-Region	8	168
+rtcR	b3422	DNA-Binding-Region	485	504
+		Nucleotide-Phosphate-Binding-Region	281	290
+		Nucleotide-Phosphate-Binding-Region	215	222
+		Conserved-Region	186	424
+rutA	b1012	Nucleotide-Phosphate-Binding-Region	159	160
+		Nucleotide-Phosphate-Binding-Region	68	69
+rutR	b1013	DNA-Binding-Region	39	58
+		Conserved-Region	17	77
+ruvB	b1860	Nucleotide-Phosphate-Binding-Region	62	69
+sbmA	b0377	Transmembrane-Region	332	352
+		Transmembrane-Region	243	263
+		Transmembrane-Region	206	226
+		Transmembrane-Region	138	158
+		Transmembrane-Region	88	108
+		Transmembrane-Region	57	77
+		Transmembrane-Region	12	32
+scpA	b2917	Conserved-Region	584	714
+sdhA	b0723	Nucleotide-Phosphate-Binding-Region	404	405
+		Nucleotide-Phosphate-Binding-Region	37	52
+		Nucleotide-Phosphate-Binding-Region	14	19
+sdhB	b0724	Conserved-Region	139	169
+		Conserved-Region	8	97
+sdhC	b0721	Transmembrane-Region	109	129
+		Transmembrane-Region	69	89
+		Transmembrane-Region	27	52
+secA	b0098	Nucleotide-Phosphate-Binding-Region	102	109
+secD	b0408	Transmembrane-Region	586	605
+		Transmembrane-Region	564	580
+		Transmembrane-Region	502	518
+		Transmembrane-Region	456	472
+		Transmembrane-Region	10	29
+secY	b3300	Transmembrane-Region	397	413
+		Transmembrane-Region	381	395
+		Transmembrane-Region	314	329
+		Transmembrane-Region	274	287
+		Transmembrane-Region	224	237
+		Transmembrane-Region	184	200
+		Transmembrane-Region	165	178
+		Transmembrane-Region	116	131
+		Intramembrane-Region	77	96
+		Intramembrane-Region	71	76
+		Intramembrane-Region	61	70
+		Transmembrane-Region	61	96
+		Transmembrane-Region	23	35
+selO	b1706	Nucleotide-Phosphate-Binding-Region	119	120
+		Nucleotide-Phosphate-Binding-Region	84	87
+serA	b2913	Nucleotide-Phosphate-Binding-Region	292	295
+		Nucleotide-Phosphate-Binding-Region	238	240
+		Nucleotide-Phosphate-Binding-Region	161	162
+		Conserved-Region	339	410
+serS	b0893	Nucleotide-Phosphate-Binding-Region	355	358
+		Nucleotide-Phosphate-Binding-Region	268	270
+slyA	b1642	DNA-Binding-Region	49	72
+		Conserved-Region	2	135
+sohB	b1272	Transmembrane-Region	9	29
+soxR	b4063	DNA-Binding-Region	14	33
+		Conserved-Region	11	79
+spoT	b3650	Conserved-Region	386	447
+		Conserved-Region	45	144
+		Conserved-Region	628	702
+sppA	b1766	Transmembrane-Region	25	45
+		Transmembrane-Region	29	45
+ssb	b4059	DNA-Binding-Region	55	61
+		Conserved-Region	6	111
+		DNA-Binding-Region	1	112
+sseA	b2521	Conserved-Region	165	278
+		Conserved-Region	17	135
+ssuC	b0934	Conserved-Region	58	242
+		Transmembrane-Region	218	238
+		Transmembrane-Region	188	208
+		Transmembrane-Region	165	185
+		Transmembrane-Region	126	148
+		Transmembrane-Region	103	122
+		Transmembrane-Region	69	89
+		Transmembrane-Region	44	64
+		Transmembrane-Region	14	34
+sthA	b3962	Nucleotide-Phosphate-Binding-Region	36	45
+sucB	b0727	Conserved-Region	113	150
+		Conserved-Region	3	78
+sucC	b0728	Nucleotide-Phosphate-Binding-Region	53	55
+		Conserved-Region	9	244
+sufC	b1682	Nucleotide-Phosphate-Binding-Region	34	41
+		Conserved-Region	2	246
+tadA	b2559	Conserved-Region	6	117
+tap	b1885	Conserved-Region	269	498
+		Conserved-Region	212	264
+		Transmembrane-Region	189	209
+		Transmembrane-Region	7	33
+tas	b2834	Nucleotide-Phosphate-Binding-Region	234	244
+tatC	b3839	Transmembrane-Region	212	232
+		Transmembrane-Region	193	210
+		Transmembrane-Region	157	177
+		Transmembrane-Region	116	136
+		Transmembrane-Region	76	96
+		Transmembrane-Region	24	44
+		Transmembrane-Region	212	232
+		Transmembrane-Region	157	177
+		Transmembrane-Region	116	136
+		Transmembrane-Region	76	96
+		Transmembrane-Region	24	44
+		Transmembrane-Region	193	210
+tauB	b0366	Nucleotide-Phosphate-Binding-Region	34	41
+		Nucleotide-Phosphate-Binding-Region	34	41
+		Conserved-Region	2	229
+tauC	b0367	Conserved-Region	80	264
+		Transmembrane-Region	236	256
+		Transmembrane-Region	209	229
+		Transmembrane-Region	186	206
+		Transmembrane-Region	146	166
+		Transmembrane-Region	124	144
+		Transmembrane-Region	87	107
+		Transmembrane-Region	20	42
+tcyL	b1918	Conserved-Region	19	207
+		Transmembrane-Region	183	203
+		Transmembrane-Region	65	85
+		Transmembrane-Region	23	43
+tdcB	b3117	Nucleotide-Phosphate-Binding-Region	119	120
+		Nucleotide-Phosphate-Binding-Region	53	54
+		Nucleotide-Phosphate-Binding-Region	53	54
+		Nucleotide-Phosphate-Binding-Region	119	120
+tdcD	b3115	Nucleotide-Phosphate-Binding-Region	326	330
+		Nucleotide-Phosphate-Binding-Region	278	280
+		Nucleotide-Phosphate-Binding-Region	203	207
+tdh	b3616	Nucleotide-Phosphate-Binding-Region	286	287
+		Nucleotide-Phosphate-Binding-Region	262	264
+tdk	b1238	Nucleotide-Phosphate-Binding-Region	87	90
+		Nucleotide-Phosphate-Binding-Region	9	16
+thrS	b1719	Conserved-Region	1	61
+		Nucleotide-Phosphate-Binding-Region	479	480
+		Nucleotide-Phosphate-Binding-Region	363	365
+thyA	b2827	Nucleotide-Phosphate-Binding-Region	207	209
+		Nucleotide-Phosphate-Binding-Region	166	169
+		Nucleotide-Phosphate-Binding-Region	126	127
+tig	b0436	Conserved-Region	161	246
+tktA	b2935	Nucleotide-Phosphate-Binding-Region	114	116
+tmk	b1098	Nucleotide-Phosphate-Binding-Region	10	17
+tolQ	b0737	Transmembrane-Region	171	191
+		Transmembrane-Region	139	159
+		Transmembrane-Region	16	36
+		Transmembrane-Region	175	191
+		Transmembrane-Region	136	156
+		Transmembrane-Region	20	37
+		Transmembrane-Region	162	191
+		Transmembrane-Region	127	159
+		Transmembrane-Region	9	36
+topA	b1274	Zn-Finger-Region	711	736
+		Zn-Finger-Region	662	689
+		Zn-Finger-Region	599	630
+		Conserved-Region	3	142
+trg	b1421	Conserved-Region	281	510
+		Conserved-Region	224	276
+		Transmembrane-Region	202	222
+		Transmembrane-Region	24	44
+trhO	b1055	Conserved-Region	146	240
+trpD	b1263	Conserved-Region	3	196
+trpS	b3384	Nucleotide-Phosphate-Binding-Region	195	199
+		Nucleotide-Phosphate-Binding-Region	147	149
+		Nucleotide-Phosphate-Binding-Region	19	20
+		Nucleotide-Phosphate-Binding-Region	11	13
+trxA	b3781	Conserved-Region	2	109
+trxB	b0888	Nucleotide-Phosphate-Binding-Region	287	296
+		Nucleotide-Phosphate-Binding-Region	36	43
+tsaC	b3282	Conserved-Region	7	190
+tsaE	b4168	Nucleotide-Phosphate-Binding-Region	38	43
+ttdR	b3060	DNA-Binding-Region	23	42
+		Conserved-Region	6	63
+tufB	b3980	Nucleotide-Phosphate-Binding-Region	136	139
+		Nucleotide-Phosphate-Binding-Region	81	85
+		Nucleotide-Phosphate-Binding-Region	19	26
+		Conserved-Region	10	204
+tyrS	b1637	Conserved-Region	357	414
+ubiA	b4040	Transmembrane-Region	268	288
+		Transmembrane-Region	234	254
+		Transmembrane-Region	213	233
+		Transmembrane-Region	163	183
+		Transmembrane-Region	141	161
+		Transmembrane-Region	100	119
+		Transmembrane-Region	46	66
+		Transmembrane-Region	23	43
+ubiB	b3835	Nucleotide-Phosphate-Binding-Region	130	138
+		Conserved-Region	124	502
+		Transmembrane-Region	522	542
+		Transmembrane-Region	501	521
+ubiI	b2906	Nucleotide-Phosphate-Binding-Region	297	303
+		Nucleotide-Phosphate-Binding-Region	49	52
+ucpA	b2426	Nucleotide-Phosphate-Binding-Region	10	32
+ugpA	b3452	Conserved-Region	76	284
+		Transmembrane-Region	263	283
+		Transmembrane-Region	208	228
+		Transmembrane-Region	157	177
+		Transmembrane-Region	110	130
+		Transmembrane-Region	81	101
+		Transmembrane-Region	12	32
+ugpC	b3450	Nucleotide-Phosphate-Binding-Region	37	44
+		Conserved-Region	4	235
+ugpE	b3451	Conserved-Region	77	268
+		Transmembrane-Region	247	267
+		Transmembrane-Region	202	222
+		Transmembrane-Region	142	162
+		Transmembrane-Region	113	133
+		Transmembrane-Region	85	105
+		Transmembrane-Region	16	36
+ugpQ	b3449	Conserved-Region	7	244
+ulaR	b4191	DNA-Binding-Region	20	39
+		Conserved-Region	3	58
+uup	b0949	Nucleotide-Phosphate-Binding-Region	352	359
+		Nucleotide-Phosphate-Binding-Region	36	43
+		Conserved-Region	320	546
+		Conserved-Region	1	253
+uvrA	b4058	Zn-Finger-Region	740	766
+		Nucleotide-Phosphate-Binding-Region	640	647
+		Zn-Finger-Region	253	280
+		Nucleotide-Phosphate-Binding-Region	31	38
+		Conserved-Region	607	937
+		Conserved-Region	310	587
+uvrB	b0779	Nucleotide-Phosphate-Binding-Region	39	46
+		Conserved-Region	633	668
+		Conserved-Region	431	597
+		Conserved-Region	26	415
+uvrC	b1913	Conserved-Region	204	239
+		Conserved-Region	16	94
+uvrD	b3813	Nucleotide-Phosphate-Binding-Region	32	37
+		Conserved-Region	287	564
+		Conserved-Region	8	286
+uvrY	b1914	DNA-Binding-Region	167	186
+		Conserved-Region	143	208
+		Conserved-Region	3	119
+waaA	b3633	Transmembrane-Region	3	23
+wcaJ	b2047	Transmembrane-Region	279	299
+		Transmembrane-Region	105	125
+		Transmembrane-Region	81	101
+		Transmembrane-Region	39	59
+		Transmembrane-Region	16	36
+wecC	b3787	Nucleotide-Phosphate-Binding-Region	10	15
+xdhB	b2867	Nucleotide-Phosphate-Binding-Region	109	113
+		Nucleotide-Phosphate-Binding-Region	27	34
+		Conserved-Region	1	176
+xerC	b3811	Conserved-Region	2	88
+		Conserved-Region	109	288
+xerD	b2894	Conserved-Region	2	87
+		Conserved-Region	108	292
+xylG	b3567	Conserved-Region	259	505
+		Conserved-Region	5	242
+xylH	b3568	Transmembrane-Region	366	386
+		Transmembrane-Region	337	357
+		Transmembrane-Region	313	333
+		Transmembrane-Region	288	308
+		Transmembrane-Region	240	260
+		Transmembrane-Region	215	235
+		Transmembrane-Region	176	196
+		Transmembrane-Region	136	156
+		Transmembrane-Region	103	123
+		Transmembrane-Region	65	85
+		Transmembrane-Region	25	45
+xynR	b0272	DNA-Binding-Region	25	45
+		Conserved-Region	81	250
+		Conserved-Region	4	66
+yadG	b0127	Nucleotide-Phosphate-Binding-Region	38	45
+		Conserved-Region	5	236
+yadH	b0128	Conserved-Region	22	251
+		Transmembrane-Region	224	244
+		Transmembrane-Region	170	190
+		Transmembrane-Region	139	159
+		Transmembrane-Region	117	137
+		Transmembrane-Region	95	115
+		Transmembrane-Region	53	73
+		Transmembrane-Region	23	43
+yafC	b0208	DNA-Binding-Region	20	39
+		Conserved-Region	1	60
+yafP	b0234	Conserved-Region	4	149
+yajR	b0427	Transmembrane-Region	364	384
+		Transmembrane-Region	341	361
+		Transmembrane-Region	307	327
+		Transmembrane-Region	280	300
+		Transmembrane-Region	253	273
+		Transmembrane-Region	217	237
+		Transmembrane-Region	166	186
+		Transmembrane-Region	138	158
+		Transmembrane-Region	85	105
+		Transmembrane-Region	48	68
+		Transmembrane-Region	15	35
+ybaL	b0478	Nucleotide-Phosphate-Binding-Region	467	468
+		Nucleotide-Phosphate-Binding-Region	447	448
+		Nucleotide-Phosphate-Binding-Region	427	428
+		Conserved-Region	419	541
+		Transmembrane-Region	368	388
+		Transmembrane-Region	337	357
+		Transmembrane-Region	304	324
+		Transmembrane-Region	280	300
+		Transmembrane-Region	248	268
+		Transmembrane-Region	226	246
+		Transmembrane-Region	186	206
+		Transmembrane-Region	149	169
+		Transmembrane-Region	113	133
+		Transmembrane-Region	86	106
+		Transmembrane-Region	56	76
+		Transmembrane-Region	32	52
+		Transmembrane-Region	4	24
+ybbA	b0495	Nucleotide-Phosphate-Binding-Region	43	50
+		Conserved-Region	7	228
+ybbJ	b0488	Transmembrane-Region	55	75
+		Transmembrane-Region	32	52
+		Transmembrane-Region	1	21
+ybbO	b0493	Nucleotide-Phosphate-Binding-Region	15	41
+ybeZ	b0660	Nucleotide-Phosphate-Binding-Region	142	149
+ybhF	b0794	Nucleotide-Phosphate-Binding-Region	362	369
+		Nucleotide-Phosphate-Binding-Region	40	47
+		Conserved-Region	330	559
+		Conserved-Region	6	237
+ybhL	b0786	Transmembrane-Region	207	227
+		Transmembrane-Region	164	184
+		Transmembrane-Region	137	157
+		Transmembrane-Region	103	123
+		Transmembrane-Region	80	100
+		Transmembrane-Region	57	77
+		Transmembrane-Region	24	44
+ybhR	b0792	Conserved-Region	129	366
+		Transmembrane-Region	340	360
+		Transmembrane-Region	285	305
+		Transmembrane-Region	254	274
+		Transmembrane-Region	223	243
+		Transmembrane-Region	174	194
+		Transmembrane-Region	25	45
+ybhS	b0793	Conserved-Region	145	375
+		Transmembrane-Region	346	366
+		Transmembrane-Region	292	312
+		Transmembrane-Region	262	282
+		Transmembrane-Region	235	255
+		Transmembrane-Region	182	202
+		Transmembrane-Region	29	49
+ybiO	b0808	Transmembrane-Region	533	553
+		Transmembrane-Region	509	529
+		Transmembrane-Region	466	486
+		Transmembrane-Region	432	452
+		Transmembrane-Region	372	392
+		Transmembrane-Region	343	363
+		Transmembrane-Region	294	314
+		Transmembrane-Region	268	288
+		Transmembrane-Region	225	245
+		Transmembrane-Region	185	205
+		Transmembrane-Region	143	163
+ycbX	b0947	Conserved-Region	289	369
+		Conserved-Region	115	264
+yccX	b0968	Conserved-Region	5	92
+ychE	b1242	Transmembrane-Region	189	209
+		Transmembrane-Region	147	167
+		Transmembrane-Region	120	140
+		Transmembrane-Region	81	101
+		Transmembrane-Region	54	74
+		Transmembrane-Region	14	34
+ychF	b1203	Conserved-Region	278	361
+		Nucleotide-Phosphate-Binding-Region	12	17
+		Conserved-Region	3	256
+yciA	b1253	Conserved-Region	8	123
+yciK	b1271	Nucleotide-Phosphate-Binding-Region	16	40
+ycjO	b1311	Conserved-Region	73	283
+		Transmembrane-Region	262	282
+		Transmembrane-Region	215	235
+		Transmembrane-Region	163	183
+		Transmembrane-Region	136	156
+		Transmembrane-Region	111	131
+		Transmembrane-Region	78	98
+		Transmembrane-Region	13	33
+ycjP	b1312	Conserved-Region	74	265
+		Transmembrane-Region	243	263
+		Transmembrane-Region	215	235
+		Transmembrane-Region	190	210
+		Transmembrane-Region	141	161
+		Transmembrane-Region	118	138
+		Transmembrane-Region	78	98
+		Transmembrane-Region	54	74
+		Transmembrane-Region	11	31
+ycjX	b1321	Nucleotide-Phosphate-Binding-Region	26	33
+ydcI	b1422	DNA-Binding-Region	28	47
+		Conserved-Region	11	68
+ydcO	b1433	Transmembrane-Region	362	382
+		Transmembrane-Region	312	332
+		Transmembrane-Region	288	308
+		Transmembrane-Region	247	267
+		Transmembrane-Region	201	221
+		Transmembrane-Region	168	188
+		Transmembrane-Region	124	144
+		Transmembrane-Region	94	114
+		Transmembrane-Region	43	63
+		Transmembrane-Region	10	30
+ydcR	b1439	Conserved-Region	1	69
+ydcT	b1441	Nucleotide-Phosphate-Binding-Region	37	44
+		Conserved-Region	5	235
+ydcU	b1442	Conserved-Region	87	302
+		Transmembrane-Region	284	304
+		Transmembrane-Region	253	273
+		Transmembrane-Region	231	251
+		Transmembrane-Region	188	208
+		Transmembrane-Region	155	175
+		Transmembrane-Region	123	143
+		Transmembrane-Region	93	113
+		Transmembrane-Region	26	46
+ydcV	b1443	Conserved-Region	65	252
+		Transmembrane-Region	237	257
+		Transmembrane-Region	190	210
+		Transmembrane-Region	129	149
+		Transmembrane-Region	101	121
+		Transmembrane-Region	71	91
+		Transmembrane-Region	13	33
+ydfG	b1539	Nucleotide-Phosphate-Binding-Region	177	185
+		Nucleotide-Phosphate-Binding-Region	54	55
+		Nucleotide-Phosphate-Binding-Region	32	33
+		Nucleotide-Phosphate-Binding-Region	7	12
+ydfI	b1542	Nucleotide-Phosphate-Binding-Region	24	35
+ydhB	b1659	DNA-Binding-Region	19	38
+		Conserved-Region	1	59
+ydhP	b1657	Transmembrane-Region	357	377
+		Transmembrane-Region	331	351
+		Transmembrane-Region	291	311
+		Transmembrane-Region	267	287
+		Transmembrane-Region	237	257
+		Transmembrane-Region	204	224
+		Transmembrane-Region	160	180
+		Transmembrane-Region	131	151
+		Transmembrane-Region	101	121
+		Transmembrane-Region	71	91
+		Transmembrane-Region	44	64
+		Transmembrane-Region	7	27
+ydiB	b1692	Nucleotide-Phosphate-Binding-Region	232	235
+		Nucleotide-Phosphate-Binding-Region	155	158
+		Nucleotide-Phosphate-Binding-Region	132	135
+ydiJ	b1687	Conserved-Region	662	695
+		Conserved-Region	48	281
+ydiR	b1698	Nucleotide-Phosphate-Binding-Region	254	282
+ydjA	b1765	Nucleotide-Phosphate-Binding-Region	131	133
+		Nucleotide-Phosphate-Binding-Region	121	126
+		Nucleotide-Phosphate-Binding-Region	10	12
+yeaW	b1802	Conserved-Region	47	155
+yebE	b1846	Transmembrane-Region	52	74
+yebK	b1853	DNA-Binding-Region	37	56
+		Conserved-Region	121	260
+		Conserved-Region	1	77
+yebQ	b1828	Transmembrane-Region	428	448
+		Transmembrane-Region	400	420
+		Transmembrane-Region	357	377
+		Transmembrane-Region	334	354
+		Transmembrane-Region	308	328
+		Transmembrane-Region	269	289
+		Transmembrane-Region	229	249
+		Transmembrane-Region	205	225
+		Transmembrane-Region	166	186
+		Transmembrane-Region	144	164
+		Transmembrane-Region	112	132
+		Transmembrane-Region	87	107
+		Transmembrane-Region	54	74
+		Transmembrane-Region	15	35
+yedI	b1958	Transmembrane-Region	272	292
+		Transmembrane-Region	232	252
+		Transmembrane-Region	177	197
+		Transmembrane-Region	152	172
+		Transmembrane-Region	93	113
+		Transmembrane-Region	72	92
+yedJ	b1962	Conserved-Region	26	132
+yedL	b1932	Conserved-Region	4	153
+yeeY	b2015	DNA-Binding-Region	20	39
+		Conserved-Region	1	60
+yegW	b2101	DNA-Binding-Region	50	69
+		Conserved-Region	22	90
+yehW	b2128	Conserved-Region	50	231
+		Transmembrane-Region	207	227
+		Transmembrane-Region	162	182
+		Transmembrane-Region	124	144
+		Transmembrane-Region	102	122
+		Transmembrane-Region	47	67
+		Transmembrane-Region	9	29
+yehX	b2129	Nucleotide-Phosphate-Binding-Region	34	41
+		Conserved-Region	2	235
+yehY	b2130	Conserved-Region	177	372
+		Transmembrane-Region	346	366
+		Transmembrane-Region	323	343
+		Transmembrane-Region	248	268
+		Transmembrane-Region	225	245
+		Transmembrane-Region	181	201
+		Transmembrane-Region	138	158
+		Transmembrane-Region	107	127
+		Transmembrane-Region	70	90
+		Transmembrane-Region	45	65
+		Transmembrane-Region	6	26
+yejB	b2178	Conserved-Region	133	348
+		Transmembrane-Region	327	347
+		Transmembrane-Region	285	305
+		Transmembrane-Region	225	245
+		Transmembrane-Region	173	193
+		Transmembrane-Region	136	156
+		Transmembrane-Region	38	58
+		Transmembrane-Region	9	29
+yejE	b2179	Conserved-Region	140	332
+		Transmembrane-Region	308	328
+		Transmembrane-Region	253	273
+		Transmembrane-Region	202	222
+		Transmembrane-Region	179	199
+		Transmembrane-Region	144	164
+		Transmembrane-Region	22	42
+yejF	b2180	Nucleotide-Phosphate-Binding-Region	319	326
+		Nucleotide-Phosphate-Binding-Region	42	49
+		Conserved-Region	287	526
+		Conserved-Region	6	257
+yfaV	b2246	Transmembrane-Region	395	415
+		Transmembrane-Region	362	382
+		Transmembrane-Region	325	345
+		Transmembrane-Region	275	295
+		Transmembrane-Region	243	263
+		Transmembrane-Region	175	195
+		Transmembrane-Region	144	164
+		Transmembrane-Region	82	102
+		Transmembrane-Region	55	75
+		Transmembrane-Region	17	37
+yfbK	b2270	Conserved-Region	216	394
+yfcA	b2327	Transmembrane-Region	198	218
+		Transmembrane-Region	157	177
+		Transmembrane-Region	112	132
+		Transmembrane-Region	85	105
+		Transmembrane-Region	31	51
+		Transmembrane-Region	8	28
+yfcG	b2302	Conserved-Region	90	215
+		Conserved-Region	1	87
+yfdH	b2351	Transmembrane-Region	263	283
+		Transmembrane-Region	228	248
+yfhL	b2562	Conserved-Region	31	65
+		Conserved-Region	1	29
+yfjD	b4461	Conserved-Region	2	192
+		Conserved-Region	272	332
+		Conserved-Region	208	270
+		Transmembrane-Region	130	150
+		Transmembrane-Region	92	112
+		Transmembrane-Region	65	85
+		Transmembrane-Region	4	24
+ygaV	b2667	DNA-Binding-Region	41	60
+		Conserved-Region	7	99
+ygaZ	b2682	Transmembrane-Region	206	226
+		Transmembrane-Region	173	193
+		Transmembrane-Region	141	161
+		Transmembrane-Region	110	130
+		Transmembrane-Region	64	84
+		Transmembrane-Region	25	45
+ygbJ	b2736	Nucleotide-Phosphate-Binding-Region	7	35
+ygbK	b2737	Nucleotide-Phosphate-Binding-Region	360	363
+ygfF	b2902	Nucleotide-Phosphate-Binding-Region	4	28
+yggC	b2928	Nucleotide-Phosphate-Binding-Region	50	57
+yghA	b3003	Nucleotide-Phosphate-Binding-Region	53	77
+yghU	b2989	Conserved-Region	139	265
+		Conserved-Region	46	133
+ygiC	b3038	Nucleotide-Phosphate-Binding-Region	371	373
+		Nucleotide-Phosphate-Binding-Region	100	102
+yhaI	b3104	Transmembrane-Region	78	98
+		Transmembrane-Region	48	68
+		Transmembrane-Region	26	46
+yhbO	b3153	Conserved-Region	3	171
+yhbS	b3156	Conserved-Region	1	148
+yhdX	b3269	Conserved-Region	88	381
+		Transmembrane-Region	363	383
+		Transmembrane-Region	333	353
+		Transmembrane-Region	256	276
+		Transmembrane-Region	219	239
+		Transmembrane-Region	180	200
+		Transmembrane-Region	128	148
+		Transmembrane-Region	92	112
+		Transmembrane-Region	21	41
+yhdY	b3270	Conserved-Region	159	353
+		Transmembrane-Region	327	347
+		Transmembrane-Region	292	312
+		Transmembrane-Region	234	254
+		Transmembrane-Region	193	213
+		Transmembrane-Region	163	183
+		Transmembrane-Region	126	146
+		Transmembrane-Region	100	120
+		Transmembrane-Region	37	57
+yhdZ	b3271	Nucleotide-Phosphate-Binding-Region	45	52
+		Conserved-Region	13	247
+yheS	b3352	Nucleotide-Phosphate-Binding-Region	345	352
+		Nucleotide-Phosphate-Binding-Region	34	41
+		Conserved-Region	313	527
+		Conserved-Region	2	246
+yhgF	b3407	Conserved-Region	651	720
+yhhQ	b3471	Transmembrane-Region	185	205
+		Transmembrane-Region	144	164
+		Transmembrane-Region	98	118
+		Transmembrane-Region	71	91
+		Transmembrane-Region	35	55
+		Transmembrane-Region	13	33
+yhhY	b3441	Conserved-Region	4	162
+yhiD	b3508	Transmembrane-Region	118	138
+		Transmembrane-Region	92	112
+		Transmembrane-Region	67	87
+		Transmembrane-Region	36	56
+		Transmembrane-Region	1	21
+yhjE	b3523	Transmembrane-Region	411	431
+		Transmembrane-Region	385	405
+		Transmembrane-Region	346	366
+		Transmembrane-Region	321	341
+		Transmembrane-Region	290	310
+		Transmembrane-Region	249	269
+		Transmembrane-Region	193	213
+		Transmembrane-Region	168	188
+		Transmembrane-Region	130	150
+		Transmembrane-Region	109	129
+		Transmembrane-Region	67	87
+		Transmembrane-Region	35	55
+yiaD	b3552	Conserved-Region	103	219
+		Transmembrane-Region	62	84
+		Transmembrane-Region	37	55
+yiaM	b3577	Transmembrane-Region	113	135
+		Transmembrane-Region	79	98
+		Transmembrane-Region	44	66
+		Transmembrane-Region	7	29
+yiaN	b3578	Transmembrane-Region	399	419
+		Transmembrane-Region	355	375
+		Transmembrane-Region	314	334
+		Transmembrane-Region	277	297
+		Transmembrane-Region	235	255
+		Transmembrane-Region	209	229
+		Transmembrane-Region	170	190
+		Transmembrane-Region	139	159
+		Transmembrane-Region	93	113
+		Transmembrane-Region	54	74
+		Transmembrane-Region	3	23
+yibH	b3597	Transmembrane-Region	310	330
+		Transmembrane-Region	281	301
+		Transmembrane-Region	233	253
+		Transmembrane-Region	55	75
+		Transmembrane-Region	27	47
+		Transmembrane-Region	4	24
+yicG	b3646	Transmembrane-Region	169	189
+		Transmembrane-Region	148	168
+		Transmembrane-Region	112	132
+		Transmembrane-Region	88	108
+		Transmembrane-Region	65	85
+		Transmembrane-Region	30	50
+yicR	b3638	Conserved-Region	100	222
+yidC	b3705	Transmembrane-Region	513	535
+		Transmembrane-Region	494	509
+		Transmembrane-Region	464	481
+		Transmembrane-Region	417	446
+		Transmembrane-Region	343	370
+		Transmembrane-Region	6	23
+yieF	b3713	Nucleotide-Phosphate-Binding-Region	82	85
+		Nucleotide-Phosphate-Binding-Region	13	20
+yieP	b3755	DNA-Binding-Region	40	59
+		Conserved-Region	12	80
+yihA	b3865	Nucleotide-Phosphate-Binding-Region	178	180
+		Nucleotide-Phosphate-Binding-Region	145	148
+		Nucleotide-Phosphate-Binding-Region	78	81
+		Nucleotide-Phosphate-Binding-Region	60	64
+		Nucleotide-Phosphate-Binding-Region	33	40
+		Conserved-Region	25	199
+yihU	b3882	Nucleotide-Phosphate-Binding-Region	5	19
+yjbB	b4020	Transmembrane-Region	274	294
+		Transmembrane-Region	240	260
+		Transmembrane-Region	196	216
+		Transmembrane-Region	175	195
+		Transmembrane-Region	134	154
+		Transmembrane-Region	99	119
+		Transmembrane-Region	76	96
+		Transmembrane-Region	48	68
+yjcE	b4065	Transmembrane-Region	398	418
+		Transmembrane-Region	361	381
+		Transmembrane-Region	310	330
+		Transmembrane-Region	278	298
+		Transmembrane-Region	222	242
+		Transmembrane-Region	187	207
+		Transmembrane-Region	165	185
+		Transmembrane-Region	106	126
+		Transmembrane-Region	85	105
+		Transmembrane-Region	50	70
+		Transmembrane-Region	28	48
+		Transmembrane-Region	1	21
+yjdJ	b4127	Conserved-Region	2	90
+yjfF	b4231	Transmembrane-Region	251	271
+		Transmembrane-Region	295	315
+		Transmembrane-Region	223	243
+		Transmembrane-Region	160	180
+		Transmembrane-Region	114	134
+		Transmembrane-Region	89	109
+		Transmembrane-Region	43	63
+		Transmembrane-Region	6	26
+yjfL	b4184	Transmembrane-Region	110	130
+		Transmembrane-Region	72	92
+		Transmembrane-Region	47	67
+		Transmembrane-Region	7	27
+yjhU	b4295	DNA-Binding-Region	72	91
+yjiA	b4352	Nucleotide-Phosphate-Binding-Region	11	19
+		Conserved-Region	224	315
+yjiJ	b4332	Transmembrane-Region	362	382
+		Transmembrane-Region	331	351
+		Transmembrane-Region	298	318
+		Transmembrane-Region	273	293
+		Transmembrane-Region	248	268
+		Transmembrane-Region	209	229
+		Transmembrane-Region	171	191
+		Transmembrane-Region	138	158
+		Transmembrane-Region	113	133
+		Transmembrane-Region	91	111
+		Transmembrane-Region	55	75
+		Transmembrane-Region	13	33
+ynbA	b1408	Transmembrane-Region	176	196
+		Transmembrane-Region	152	172
+		Transmembrane-Region	117	139
+		Transmembrane-Region	85	107
+		Transmembrane-Region	44	64
+ynbB	b1409	Transmembrane-Region	273	293
+		Transmembrane-Region	236	256
+		Transmembrane-Region	208	228
+		Transmembrane-Region	163	183
+		Transmembrane-Region	138	158
+		Transmembrane-Region	105	125
+		Transmembrane-Region	52	72
+		Transmembrane-Region	5	25
+ynbD	b1411	Conserved-Region	297	430
+		Transmembrane-Region	372	392
+		Transmembrane-Region	230	250
+		Transmembrane-Region	209	229
+		Transmembrane-Region	175	195
+		Transmembrane-Region	85	105
+		Transmembrane-Region	46	66
+		Transmembrane-Region	2	22
+yneJ	b1526	DNA-Binding-Region	18	38
+		Conserved-Region	1	58
+ynfA	b1582	Transmembrane-Region	85	105
+		Transmembrane-Region	61	81
+		Transmembrane-Region	31	51
+		Transmembrane-Region	6	26
+ynfM	b1596	Transmembrane-Region	388	408
+		Transmembrane-Region	365	385
+		Transmembrane-Region	316	336
+		Transmembrane-Region	265	285
+		Transmembrane-Region	242	262
+		Transmembrane-Region	191	211
+		Transmembrane-Region	153	173
+		Transmembrane-Region	126	146
+		Transmembrane-Region	102	122
+		Transmembrane-Region	74	94
+		Transmembrane-Region	39	59
+yoaE	b1816	Conserved-Region	367	427
+		Conserved-Region	304	363
+		Transmembrane-Region	355	375
+		Transmembrane-Region	207	227
+		Transmembrane-Region	185	205
+		Transmembrane-Region	150	170
+		Transmembrane-Region	125	145
+		Transmembrane-Region	79	99
+		Transmembrane-Region	49	69
+		Transmembrane-Region	14	34
+yohD	b2136	Transmembrane-Region	160	180
+		Transmembrane-Region	122	142
+		Transmembrane-Region	41	61
+yohF	b2137	Nucleotide-Phosphate-Binding-Region	6	30
+ypfJ	b2475	Transmembrane-Region	38	60
+yqfA	b2899	Transmembrane-Region	196	216
+		Transmembrane-Region	166	186
+		Transmembrane-Region	139	159
+		Transmembrane-Region	114	134
+		Transmembrane-Region	91	111
+		Transmembrane-Region	54	74
+		Transmembrane-Region	24	44
+yqhA	b3002	Transmembrane-Region	136	156
+		Transmembrane-Region	53	73
+		Transmembrane-Region	15	35
+yqhC	b3010	DNA-Binding-Region	278	301
+		DNA-Binding-Region	230	251
+		Conserved-Region	213	311
+yqiK	b3051	Transmembrane-Region	10	30
+yqjG	b3102	Conserved-Region	172	296
+ytfH	b4212	Conserved-Region	20	118
+ytfR	b4485	Nucleotide-Phosphate-Binding-Region	42	49
+		Conserved-Region	259	497
+		Conserved-Region	10	245
+ytfT	b4230	Transmembrane-Region	303	323
+		Transmembrane-Region	282	302
+		Transmembrane-Region	256	276
+		Transmembrane-Region	224	244
+		Transmembrane-Region	175	195
+		Transmembrane-Region	137	157
+		Transmembrane-Region	109	129
+		Transmembrane-Region	87	107
+		Transmembrane-Region	66	86
+		Transmembrane-Region	26	46
+zapE	b3232	Nucleotide-Phosphate-Binding-Region	78	85
+zitB	b0752	Transmembrane-Region	182	202
+		Transmembrane-Region	160	180
+		Transmembrane-Region	122	142
+		Transmembrane-Region	90	110
+		Transmembrane-Region	48	68
+		Transmembrane-Region	21	41
+zntA	b3469	Transmembrane-Region	708	729
+		Transmembrane-Region	686	702
+		Transmembrane-Region	203	222
+		Transmembrane-Region	180	197
+		Transmembrane-Region	147	167
+		Conserved-Region	49	113
+		Transmembrane-Region	384	404
+		Transmembrane-Region	357	377
+		Transmembrane-Region	125	145
+zntR	b3292	DNA-Binding-Region	4	23
+		Conserved-Region	1	70
+znuB	b1859	Transmembrane-Region	236	256
+		Transmembrane-Region	214	234
+		Transmembrane-Region	178	198
+		Transmembrane-Region	122	142
+		Transmembrane-Region	84	104
+		Transmembrane-Region	54	74
+		Transmembrane-Region	8	28
+znuC	b1858	Nucleotide-Phosphate-Binding-Region	37	44
+		Conserved-Region	5	220
+zwf	b1852	Nucleotide-Phosphate-Binding-Region	92	93
+
