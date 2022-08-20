@@ -49,20 +49,20 @@ enriched with DNA-binding motifs.
 
 The repository contains the following folders:
 
--   **bin**: Contains binary files (e.g .R, .sh., .py, among other). For
-    each coding language, two sub-folders exist: **fun** where all the
-    functions are placed, and **scripts** where all the main codes are
+-   `bin`: Contains binary files (e.g .R, .sh., .py, among other). For
+    each coding language, two sub-folders exist: `fun` where all the
+    functions are placed, and `scripts` where all the main codes are
     placed.
 
--   **data**: Contains flat-files (.tsv, .tab, .csv, among other). It
-    contains two sub-folders: **raw** where the original datasets are
-    placed and **processed** where all the files with modifications are
+-   `data`: Contains flat-files (.tsv, .tab, .csv, among other). It
+    contains two sub-folders: `raw` where the original datasets are
+    placed and `processed` where all the files with modifications are
     placed.
 
--   **figs**: Contains all the figures either generated for the scripts
-    or necessary to compile the .Rmd file for the report.
+-   `figs`: Contains all the figures either generated for the scripts or
+    necessary to compile the .Rmd file for the report.
 
--   **docs**: .Rmd and .html files from the **project report**.
+-   `docs`: .Rmd and .html files from the **project report**.
 
 <span style="color:#035eab;">
 
@@ -125,7 +125,7 @@ columns is character.
 -   ProteinID <chr>: Protein identifier.
 -   Sequence <chr>: Sequence of amonoacids
 
-| ProteinID   | ProteinSequence       |
+| ProteinID   | Sequence              |
 |-------------|-----------------------|
 | NP_414542.1 | MKRISTTITTTITITTGNGAG |
 
@@ -180,12 +180,12 @@ columns are characters, integers and doubles.
 -   qlen <int>: Query sequence length in the aligment.
 -   coveragePercen t<dbl>: Civergae percent of the aligment.
 
-| qName | sName                         | peri              | alilen | numMM | nnGP | qSS | qSE | sSS | sSE | Evalue | bitScore | qlen | coveragePercent |
-|-------|-------------------------------|-------------------|--------|-------|------|-----|-----|-----|-----|--------|----------|------|-----------------|
-|       | gnl\|ECaadb\|100\|NP_414651.1 | gnl\|RZaadb\|1673 | 42.28  | 272   | 150  | 4   | 27  | 296 | 15  | 281    | 2e-50    | 166  | 297             |
+| qName                         | sName             | peri  | alilen | numMM | nnGP | qSS | qSE | sSS | sSE | Evalue | bitScore | qlen | coveragePercent  |
+|-------------------------------|-------------------|-------|--------|-------|------|-----|-----|-----|-----|--------|----------|------|------------------|
+| gnl\|ECaadb\|100\|NP_414651.1 | gnl\|RZaadb\|1673 | 42.28 | 272    | 150   | 4    | 27  | 296 | 15  | 281 | 2e-50  | 166      | 297  | 90.5723905723906 |
 
 This file contains the results of a BBH performed with BLASTp (Altschul
-et al. 1990)
+et al. 1990).
 
 5.  **TFs_coli.txt**:
 
@@ -211,30 +211,30 @@ accomplish one step of the workflow.
 
 -   Input:
 
-    -   ./data/raw/ecoliAnnotation.tsv
-    -   ./data/raw/MotifsSeqRelation.tsv
-    -   ./data/raw/geneAASeq.tsv
-    -   ./data/raw/TFs_coli.txt
-    -   ./data/raw/Orthologous_ECaaq_RZaadb_blastN_b1_m8.tab
+    -   `./data/raw/ecoliAnnotation.tsv`
+    -   `./data/raw/MotifsSeqRelation.tsv`
+    -   `./data/raw/geneAASeq.tsv`
+    -   `./data/raw/TFs_coli.txt`
+    -   `./data/raw/Orthologous_ECaaq_RZaadb_blastN_b1_m8.tab`
 
--   Output: ./data/processed/01_mergeDatabase.tsv
+-   Output: `./data/processed/01_mergeDatabase.tsv`
 
 **02_motifPresenceRelationship.R**
 
 -   Objective: Extract motif and blast sequences and see if they
     aligned.
 
--   Input: ./data/processed/01_mergeDatabase.tsv
+-   Input: `./data/processed/01_mergeDatabase.tsv`
 
--   Output: ./data/processed/02_motifPresenceRelationship.tsv
+-   Output: `./data/processed/02_motifPresenceRelationship.tsv`
 
 **03_pipeplot.R**
 
 -   Objective: Plot the results of the motif presence/Absence.
 
--   Input: ./data/processed/02_motifPresenceRelationship.tsv
+-   Input: `./data/processed/02_motifPresenceRelationship.tsv`
 
--   Output: ./data/processed/pieplotMotifs.png
+-   Output: `./data/processed/pieplotMotifs.png`
 
 <span style="color:#035eab;">
 
