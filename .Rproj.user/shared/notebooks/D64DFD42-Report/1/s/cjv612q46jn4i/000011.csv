@@ -1,0 +1,2 @@
+"0","ecoliAnnotation   <- read.table(file = ""../data/raw/ecoliAnnotation.tsv"", header = TRUE , sep = ""\t"")"
+"0","head(ecoliAnnotation)"

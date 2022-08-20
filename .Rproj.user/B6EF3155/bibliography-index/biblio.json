@@ -1,0 +1,613 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1016/S0022-2836(05)80360-2",
+            "PMID": "2231712",
+            "URL": "http://dx.doi.org/10.1016/S0022-2836(05)80360-2",
+            "abstract": "A new approach to rapid sequence comparison, basic local alignment search tool (BLAST), directly approximates alignments that optimize a measure of local similarity, the maximal segment pair (MSP) score. Recent mathematical results on the stochastic properties of MSP scores allow an analysis of the performance of this method as well as the statistical significance of alignments it generates. The basic algorithm is simple and robust; it can be implemented in a number of ways and applied in a variety of contexts including straightforward DNA and protein sequence database searches, motif searches, gene identification searches, and in the analysis of multiple regions of similarity in long DNA sequences. In addition to its flexibility and tractability to mathematical analysis, BLAST is an order of magnitude faster than existing sequence comparison tools of comparable sensitivity.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2016,
+                        3,
+                        8
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Altschul",
+                    "given": "S F"
+                },
+                {
+                    "family": "Gish",
+                    "given": "W"
+                },
+                {
+                    "family": "Miller",
+                    "given": "W"
+                },
+                {
+                    "family": "Myers",
+                    "given": "E W"
+                },
+                {
+                    "family": "Lipman",
+                    "given": "D J"
+                }
+            ],
+            "container-title": "Journal of Molecular Biology",
+            "id": "altschul_1990",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1990,
+                        10,
+                        5
+                    ]
+                ]
+            },
+            "page": "403-410",
+            "title": "Basic local alignment search tool.",
+            "type": "article-journal",
+            "volume": "215"
+        },
+        {
+            "DOI": "10.1146/annurev.genet.39.073003.114725",
+            "PMID": "16285863",
+            "URL": "http://dx.doi.org/10.1146/annurev.genet.39.073003.114725",
+            "abstract": "Orthologs and paralogs are two fundamentally different types of homologous genes that evolved, respectively, by vertical descent from a single ancestral gene and by duplication. Orthology and paralogy are key concepts of evolutionary genomics. A clear distinction between orthologs and paralogs is critical for the construction of a robust evolutionary classification of genes and reliable functional annotation of newly sequenced genomes. Genome comparisons show that orthologous relationships with genes from taxonomically distant species can be established for the majority of the genes from each sequenced genome. This review examines in depth the definitions and subtypes of orthologs and paralogs, outlines the principal methodological approaches employed for identification of orthology and paralogy, and considers evolutionary and functional implications of these concepts.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Koonin",
+                    "given": "Eugene V"
+                }
+            ],
+            "container-title": "Annual Review of Genetics",
+            "id": "koonin_2005",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "page": "309-338",
+            "title": "Orthologs, paralogs, and evolutionary genomics.",
+            "type": "article-journal",
+            "volume": "39"
+        },
+        {
+            "DOI": "10.1093/nar/gkv1226",
+            "PMCID": "PMC4702866",
+            "PMID": "26578580",
+            "URL": "http://dx.doi.org/10.1093/nar/gkv1226",
+            "abstract": "The NCBI Assembly database (www.ncbi.nlm.nih.gov/assembly/) provides stable accessioning and data tracking for genome assembly data. The model underlying the database can accommodate a range of assembly structures, including sets of unordered contig or scaffold sequences, bacterial genomes consisting of a single complete chromosome, or complex structures such as a human genome with modeled allelic variation. The database provides an assembly accession and version to unambiguously identify the set of sequences that make up a particular version of an assembly, and tracks changes to updated genome assemblies. The Assembly database reports metadata such as assembly names, simple statistical reports of the assembly (number of contigs and scaffolds, contiguity metrics such as contig N50, total sequence length and total gap length) as well as the assembly update history. The Assembly database also tracks the relationship between an assembly submitted to the International Nucleotide Sequence Database Consortium (INSDC) and the assembly represented in the NCBI RefSeq project. Users can find assemblies of interest by querying the Assembly Resource directly or by browsing available assemblies for a particular organism. Links in the Assembly Resource allow users to easily download sequence and annotations for current versions of genome assemblies from the NCBI genomes FTP site. Published by Oxford University Press on behalf of Nucleic Acids Research 2015. This work is written by (a) US Government employee(s) and is in the public domain in the US.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Kitts",
+                    "given": "Paul A"
+                },
+                {
+                    "family": "Church",
+                    "given": "Deanna M"
+                },
+                {
+                    "family": "Thibaud-Nissen",
+                    "given": "Françoise"
+                },
+                {
+                    "family": "Choi",
+                    "given": "Jinna"
+                },
+                {
+                    "family": "Hem",
+                    "given": "Vichet"
+                },
+                {
+                    "family": "Sapojnikov",
+                    "given": "Victor"
+                },
+                {
+                    "family": "Smith",
+                    "given": "Robert G"
+                },
+                {
+                    "family": "Tatusova",
+                    "given": "Tatiana"
+                },
+                {
+                    "family": "Xiang",
+                    "given": "Charlie"
+                },
+                {
+                    "family": "Zherikov",
+                    "given": "Andrey"
+                },
+                {
+                    "family": "DiCuccio",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Murphy",
+                    "given": "Terence D"
+                },
+                {
+                    "family": "Pruitt",
+                    "given": "Kim D"
+                },
+                {
+                    "family": "Kimchi",
+                    "given": "Avi"
+                }
+            ],
+            "container-title": "Nucleic Acids Research",
+            "id": "kitts_2016",
+            "issue": "D1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        1,
+                        4
+                    ]
+                ]
+            },
+            "page": "D73-80",
+            "title": "Assembly: a resource for assembled genomes at NCBI.",
+            "title-short": "Assembly",
+            "type": "article-journal",
+            "volume": "44"
+        },
+        {
+            "DOI": "10.1093/gbe/evt132",
+            "PMCID": "PMC3814191",
+            "PMID": "24013106",
+            "URL": "http://dx.doi.org/10.1093/gbe/evt132",
+            "abstract": "Bidirectional best hits (BBH), which entails identifying the pairs of genes in two different genomes that are more similar to each other than either is to any other gene in the other genome, is a simple and widely used method to infer orthology. A recent study has analyzed the link between BBH and orthology in bacteria and archaea and concluded that, given the very high consistency in BBH they observed among triplets of neighboring genes, a high proportion of BBH are likely to be bona fide orthologs. However, limited by their analysis setup, the previous study could not easily test the reverse question: which proportion of orthologs are BBH? In this follow-up study, we consider this question in theory and answer it based on conceptual arguments, simulated data, and real biological data from all three domains of life. Our analyses corroborate the findings of the previous study, but also show that because of the high rate of gene duplication in plants and animals, as much as 60% of orthologous relations are missed by the BBH criterion.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        18
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Dalquen",
+                    "given": "Daniel A"
+                },
+                {
+                    "family": "Dessimoz",
+                    "given": "Christophe"
+                }
+            ],
+            "container-title": "Genome Biology and Evolution",
+            "id": "dalquen_2013",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "1800-1806",
+            "title": "Bidirectional best hits miss many orthologs in duplication-rich clades such as plants and animals.",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1093/nar/gky1077",
+            "PMCID": "PMC6324031",
+            "PMID": "30395280",
+            "URL": "http://dx.doi.org/10.1093/nar/gky1077",
+            "abstract": "RegulonDB, first published 20 years ago, is a comprehensive electronic resource about regulation of transcription initiation of Escherichia coli K-12 with decades of knowledge from classic molecular biology experiments, and recently also from high-throughput genomic methodologies. We curated the literature to keep RegulonDB up to date, and initiated curation of ChIP and gSELEX experiments. We estimate that current knowledge describes between 10% and 30% of the expected total number of transcription factor- gene regulatory interactions in E. coli. RegulonDB provides datasets for interactions for which there is no evidence that they affect expression, as well as expression datasets. We developed a proof of concept pipeline to merge binding and expression evidence to identify regulatory interactions. These datasets can be visualized in the RegulonDB JBrowse. We developed the Microbial Conditions Ontology with a controlled vocabulary for the minimal properties to reproduce an experiment, which contributes to integrate data from high throughput and classic literature. At a higher level of integration, we report Genetic Sensory-Response Units for 200 transcription factors, including their regulation at the metabolic level, and include summaries for 70 of them. Finally, we summarize our research with Natural language processing strategies to enhance our biocuration work.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Santos-Zavaleta",
+                    "given": "Alberto"
+                },
+                {
+                    "family": "Salgado",
+                    "given": "Heladia"
+                },
+                {
+                    "family": "Gama-Castro",
+                    "given": "Socorro"
+                },
+                {
+                    "family": "Sánchez-Pérez",
+                    "given": "Mishael"
+                },
+                {
+                    "family": "Gómez-Romero",
+                    "given": "Laura"
+                },
+                {
+                    "family": "Ledezma-Tejeida",
+                    "given": "Daniela"
+                },
+                {
+                    "family": "García-Sotelo",
+                    "given": "Jair Santiago"
+                },
+                {
+                    "family": "Alquicira-Hernández",
+                    "given": "Kevin"
+                },
+                {
+                    "family": "Muñiz-Rascado",
+                    "given": "Luis José"
+                },
+                {
+                    "family": "Peña-Loredo",
+                    "given": "Pablo"
+                },
+                {
+                    "family": "Ishida-Gutiérrez",
+                    "given": "Cecilia"
+                },
+                {
+                    "family": "Velázquez-Ramírez",
+                    "given": "David A"
+                },
+                {
+                    "family": "Del Moral-Chávez",
+                    "given": "Víctor"
+                },
+                {
+                    "family": "Bonavides-Martínez",
+                    "given": "César"
+                },
+                {
+                    "family": "Méndez-Cruz",
+                    "given": "Carlos-Francisco"
+                },
+                {
+                    "family": "Galagan",
+                    "given": "James"
+                },
+                {
+                    "family": "Collado-Vides",
+                    "given": "Julio"
+                }
+            ],
+            "container-title": "Nucleic Acids Research",
+            "id": "santoszavaleta_2019",
+            "issue": "D1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        8
+                    ]
+                ]
+            },
+            "page": "D212-D220",
+            "title": "RegulonDB v 10.5: tackling challenges to unify classic and high throughput knowledge of gene regulation in E. coli K-12.",
+            "title-short": "RegulonDB v 10.5",
+            "type": "article-journal",
+            "volume": "47"
+        },
+        {
+            "DOI": "10.1016/j.bbagrm.2019.194430",
+            "PMID": "31678629",
+            "URL": "http://dx.doi.org/10.1016/j.bbagrm.2019.194430",
+            "abstract": "Transcriptional regulation is a fundamental molecular mechanism involved in almost every aspect of life, from homeostasis to development, from metabolism to behavior, from reaction to stimuli to disease progression. In recent years, the concept of Gene Regulatory Networks (GRNs) has grown popular as an effective applied biology approach for describing the complex and highly dynamic set of transcriptional interactions, due to its easy-to-interpret features. Since cataloguing, predicting and understanding every GRN connection in all species and cellular contexts remains a great challenge for biology, researchers have developed numerous tools and methods to infer regulatory processes. In this review, we catalogue these methods in six major areas, based on the dominant underlying information leveraged to infer GRNs: Coexpression, Sequence Motifs, Chromatin Immunoprecipitation (ChIP), Orthology, Literature and Protein-Protein Interaction (PPI) specifically focused on transcriptional complexes. The methods described here cover a wide range of user-friendliness: from web tools that require no prior computational expertise to command line programs and algorithms for large scale GRN inferences. Each method for GRN inference described herein effectively illustrates a type of transcriptional relationship, with many methods being complementary to others. While a truly holistic approach for inferring and displaying GRNs remains one of the greatest challenges in the field of systems biology, we believe that the integration of multiple methods described herein provides an effective means with which experimental and computational biologists alike may obtain the most complete pictures of transcriptional relationships. This article is part of a Special Issue entitled: Transcriptional Profiles and Regulatory Gene Networks edited by Dr. Federico Manuel Giorgi and Dr. Shaun Mahony. Copyright ©2019 Elsevier B.V. All rights reserved.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Mercatelli",
+                    "given": "Daniele"
+                },
+                {
+                    "family": "Scalambra",
+                    "given": "Laura"
+                },
+                {
+                    "family": "Triboli",
+                    "given": "Luca"
+                },
+                {
+                    "family": "Ray",
+                    "given": "Forest"
+                },
+                {
+                    "family": "Giorgi",
+                    "given": "Federico M"
+                }
+            ],
+            "container-title": "Biochimica et biophysica acta. Gene regulatory mechanisms",
+            "id": "mercatelli_2020",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        6
+                    ]
+                ]
+            },
+            "page": "194430",
+            "title": "Gene regulatory network inference resources: A practical overview.",
+            "title-short": "Gene regulatory network inference resources",
+            "type": "article-journal",
+            "volume": "1863"
+        },
+        {
+            "DOI": "10.1128/ecosalplus.{ESP}-0006-2018",
+            "PMCID": "PMC6504970",
+            "PMID": "30406744",
+            "URL": "http://dx.doi.org/10.1128/ecosalplus.{ESP}-0006-2018",
+            "abstract": "EcoCyc is a bioinformatics database available at EcoCyc.org that describes the genome and the biochemical machinery of Escherichia coli K-12 MG1655. The long-term goal of the project is to describe the complete molecular catalog of the E. coli cell, as well as the functions of each of its molecular parts, to facilitate a system-level understanding of E. coli. EcoCyc is an electronic reference source for E. coli biologists and for biologists who work with related microorganisms. The database includes information pages on each E. coli gene product, metabolite, reaction, operon, and metabolic pathway. The database also includes information on E. coli gene essentiality and on nutrient conditions that do or do not support the growth of E. coli. The website and downloadable software contain tools for analysis of high-throughput data sets. In addition, a steady-state metabolic flux model is generated from each new version of EcoCyc and can be executed via EcoCyc.org. The model can predict metabolic flux rates, nutrient uptake rates, and growth rates for different gene knockouts and nutrient conditions. This review outlines the data content of EcoCyc and of the procedures by which this content is generated.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Karp",
+                    "given": "Peter D"
+                },
+                {
+                    "family": "Ong",
+                    "given": "Wai Kit"
+                },
+                {
+                    "family": "Paley",
+                    "given": "Suzanne"
+                },
+                {
+                    "family": "Billington",
+                    "given": "Richard"
+                },
+                {
+                    "family": "Caspi",
+                    "given": "Ron"
+                },
+                {
+                    "family": "Fulcher",
+                    "given": "Carol"
+                },
+                {
+                    "family": "Kothari",
+                    "given": "Anamika"
+                },
+                {
+                    "family": "Krummenacker",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Latendresse",
+                    "given": "Mario"
+                },
+                {
+                    "family": "Midford",
+                    "given": "Peter E"
+                },
+                {
+                    "family": "Subhraveti",
+                    "given": "Pallavi"
+                },
+                {
+                    "family": "Gama-Castro",
+                    "given": "Socorro"
+                },
+                {
+                    "family": "Muñiz-Rascado",
+                    "given": "Luis"
+                },
+                {
+                    "family": "Bonavides-Martinez",
+                    "given": "César"
+                },
+                {
+                    "family": "Santos-Zavaleta",
+                    "given": "Alberto"
+                },
+                {
+                    "family": "Mackie",
+                    "given": "Amanda"
+                },
+                {
+                    "family": "Collado-Vides",
+                    "given": "Julio"
+                },
+                {
+                    "family": "Keseler",
+                    "given": "Ingrid M"
+                },
+                {
+                    "family": "Paulsen",
+                    "given": "Ian"
+                }
+            ],
+            "container-title": "EcoSal Plus",
+            "id": "karp_2018",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        11
+                    ]
+                ]
+            },
+            "title": "The EcoCyc Database.",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1007/978-1-0716-1036-7\\_16",
+            "PMID": "33289898",
+            "URL": "http://dx.doi.org/10.1007/978-1-0716-1036-7\\_16",
+            "abstract": "The book chapter introduces the National Center for Biotechnology Information (NCBI) Genome Workbench, a desktop GUI software package to manipulate and visualize complex molecular biology models provided in many data formats. Genome Workbench integrates graphical views and computational tools in a single package to facilitate discoveries. In this chapter we provide a step-by-step protocol guidance on how to do comparative analysis of sequences using NCBI BLAST and multiple sequence alignment algorithms, build phylogenetic trees, and use graphical views for sequences, alignments, and trees to validate the findings. The software package can be used to prepare high-quality whole genome submissions to NCBI. The software package is user-friendly and includes validation and editing tools to fix errors as part of preparing the submission.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Kuznetsov",
+                    "given": "Anatoliy"
+                },
+                {
+                    "family": "Bollin",
+                    "given": "Colleen J"
+                }
+            ],
+            "container-title": "Methods in Molecular Biology",
+            "id": "kuznetsov_2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "261-295",
+            "title": "NCBI genome workbench: desktop software for comparative genomics, visualization, and genbank data submission.",
+            "title-short": "NCBI genome workbench",
+            "type": "article-journal",
+            "volume": "2231"
+        },
+        {
+            "DOI": "10.1016/j.csbj.2020.05.015",
+            "PMCID": "PMC7283102",
+            "PMID": "32542109",
+            "URL": "http://dx.doi.org/10.1016/j.csbj.2020.05.015",
+            "abstract": "Some organism-specific databases about regulation in bacteria have become larger, accelerated by high-throughput methodologies, while others are no longer updated or accessible. Each database homogenize its datasets, giving rise to heterogeneity across databases. Such heterogeneity mainly encompasses different names for a gene and different network representations, generating duplicated interactions that could bias network analyses. Abasy (Across-bacteria systems) Atlas consolidates information from different sources into meta-curated regulatory networks in bacteria. The high-quality networks in Abasy Atlas enable cross-organisms analyses, such as benchmarking studies where gold standards are required. Nevertheless, network incompleteness still casts doubts on the conclusions of network analyses, and available sampling methods cannot reflect the curation process. To tackle this problem, the updated version of Abasy Atlas presented in this work provides historical snapshots of regulatory networks. Thus, network analyses can be performed at different completeness levels, making possible to identify potential bias and to predict future results. We leverage the recently found constraint in the complexity of regulatory networks to develop a novel model to quantify the total number of regulatory interactions as a function of the genome size. This completeness estimation is a valuable insight that may aid in the daunting task of network curation, prediction, and validation. The new version of Abasy Atlas provides 76 networks (204,282 regulatory interactions) covering 42 bacteria (64% Gram-positive and 36% Gram-negative) distributed in 9 species (Mycobacterium tuberculosis, Bacillus subtilis, Escherichia coli, Corynebacterium glutamicum, Staphylococcus aureus, Pseudomonas aeruginosa, Streptococcus pyogenes, Streptococcus pneumoniae, and Streptomyces coelicolor), containing 8459 regulons and 4335 modules. Database URL: https://abasy.ccg.unam.mx/. ©2020 The Author(s).",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Escorcia-Rodríguez",
+                    "given": "Juan M"
+                },
+                {
+                    "family": "Tauch",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Freyre-González",
+                    "given": "Julio A"
+                }
+            ],
+            "container-title": "Computational and structural biotechnology journal",
+            "id": "escorciarodrguez_2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        16
+                    ]
+                ]
+            },
+            "page": "1228-1237",
+            "title": "Abasy Atlas v2.2: The most comprehensive and up-to-date inventory of meta-curated, historical, bacterial regulatory networks, their completeness and system-level characterization.",
+            "title-short": "Abasy Atlas v2.2",
+            "type": "article-journal",
+            "volume": "18"
+        },
+        {
+            "DOI": "10.1080/02648725.2006.10648064",
+            "PMID": "18476325",
+            "URL": "http://dx.doi.org/10.1080/02648725.2006.10648064",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Lin",
+                    "given": "Jimmy"
+                },
+                {
+                    "family": "Zack",
+                    "given": "Donald J"
+                },
+                {
+                    "family": "Qian",
+                    "given": "Jiang"
+                }
+            ],
+            "container-title": "Biotechnology & Genetic Engineering Reviews",
+            "id": "lin_2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "page": "45-62",
+            "title": "Transcriptional regulatory network prediction.",
+            "type": "article-journal",
+            "volume": "22"
+        }
+    ],
+    "project_biblios": []
+}
